@@ -1,0 +1,10 @@
+# Python environment (recreate with: python3 -m venv isl_avatar/.venv && isl_avatar/.venv/bin/pip install -r isl_avatar/requirements.txt)
+isl_avatar/.venv/
+__pycache__/
+*.pyc
+# Blender automatic backups and old avatar versions
+*.blend1
+isl_avatar/avatar/archive_v1/
+# System and app files
+.DS_Store
+.claude/

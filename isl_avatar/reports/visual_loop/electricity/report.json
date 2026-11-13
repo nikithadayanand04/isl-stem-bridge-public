@@ -1,0 +1,145 @@
+{
+  "frames_compared": 82,
+  "left": {
+    "wrist_error": {
+      "n": 2,
+      "median": 0.121,
+      "p90": 0.121,
+      "max": 0.121
+    },
+    "wrist_height_error_signed": {
+      "n": 2,
+      "median": 0.07,
+      "p90": 0.07,
+      "max": 0.07
+    },
+    "wrist_sideways_error_signed": {
+      "n": 2,
+      "median": 0.098,
+      "p90": 0.098,
+      "max": 0.098
+    },
+    "wrist_height_vs_nose_error_signed": {
+      "n": 2,
+      "median": -0.014,
+      "p90": -0.014,
+      "max": -0.014
+    },
+    "elbow_height_error": {
+      "n": 54,
+      "median": 0.013,
+      "p90": 0.037,
+      "max": 0.053
+    },
+    "handshape_error": {
+      "n": 0
+    },
+    "peak_height": {
+      "source": 1.427,
+      "avatar": 1.42,
+      "error": 0.007
+    }
+  },
+  "right": {
+    "wrist_error": {
+      "n": 40,
+      "median": 0.073,
+      "p90": 0.163,
+      "max": 0.201
+    },
+    "wrist_height_error_signed": {
+      "n": 40,
+      "median": -0.024,
+      "p90": 0.145,
+      "max": 0.2
+    },
+    "wrist_sideways_error_signed": {
+      "n": 40,
+      "median": -0.011,
+      "p90": 0.022,
+      "max": 0.027
+    },
+    "wrist_height_vs_nose_error_signed": {
+      "n": 40,
+      "median": -0.05,
+      "p90": 0.089,
+      "max": 0.154
+    },
+    "elbow_height_error": {
+      "n": 65,
+      "median": 0.043,
+      "p90": 0.075,
+      "max": 0.115
+    },
+    "handshape_error": {
+      "n": 30,
+      "median": 0.265,
+      "p90": 0.653,
+      "max": 1.744
+    },
+    "peak_height": {
+      "source": -0.889,
+      "avatar": -0.958,
+      "error": 0.069
+    }
+  },
+  "visual_check": {
+    "result": "pass",
+    "checks": [
+      {
+        "check": "left wrist error median",
+        "value": 0.121,
+        "limit": 0.15,
+        "passed": true
+      },
+      {
+        "check": "left wrist error p90",
+        "value": 0.121,
+        "limit": 0.3,
+        "passed": true
+      },
+      {
+        "check": "left elbow height error median",
+        "value": 0.013,
+        "limit": 0.2,
+        "passed": true
+      },
+      {
+        "check": "left peak height error",
+        "value": 0.007,
+        "limit": 0.2,
+        "passed": true
+      },
+      {
+        "check": "right wrist error median",
+        "value": 0.073,
+        "limit": 0.15,
+        "passed": true
+      },
+      {
+        "check": "right wrist error p90",
+        "value": 0.163,
+        "limit": 0.3,
+        "passed": true
+      },
+      {
+        "check": "right elbow height error median",
+        "value": 0.043,
+        "limit": 0.2,
+        "passed": true
+      },
+      {
+        "check": "right peak height error",
+        "value": 0.069,
+        "limit": 0.2,
+        "passed": true
+      },
+      {
+        "check": "right handshape error median",
+        "value": 0.265,
+        "limit": 0.3,
+        "passed": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+=== magnet
+Detector switches crossfaded: {'left': 3, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.395 m (left) / 0.531 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 5, 'right': 4}
+Depth-flipped hand frames left out (interpolated): left [33]
+Rest pose: left: 63 resting frames, 63 frames blended; right: 47 resting frames, 47 frames blended
+Thumb overlap correction: left: 27 frames corrected, deepest 7.1 mm -> 0.6 mm, largest turn 16.2 deg, left over 4.9 mm max, 5 frames still over 2 mm; right: 42 frames corrected, deepest 7.2 mm -> 0.8 mm, largest turn 19.8 deg, left over 5.8 mm max, 10 frames still over 2 mm
+Resampled body keys to 60 fps: 299 frames
+Finger joint limits applied 37 times (bone-frames); worst: left ring2 asked 145.3 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'browDownRight': 0.31, 'eyeLookDownLeft': 0.3, 'mouthSmileLeft': 0.29, 'browDownLeft': 0.29, 'eyeLookDownRight': 0.28}
+Baked "magnet": 125 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 59, 'right_hand': 48, 'face': 0}
+Sampled 125 frames of "magnet" -> reports/v2/magnet/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/magnet/report.md
+=== magnet_sign_2
+Detector switches crossfaded: {'left': 0, 'right': 2}
+Arm IK on: avatar arms 0.428 m, signer arms 0.374 m (left) / 0.513 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 6, 'right': 2}
+Rest pose: left: 0 resting frames, 0 frames blended; right: 0 resting frames, 0 frames blended
+Thumb overlap correction: left: 61 frames corrected, deepest 8.2 mm -> 0.5 mm, largest turn 23.4 deg, left over 7.0 mm max, 23 frames still over 2 mm; right: 61 frames corrected, deepest 7.9 mm -> 0.7 mm, largest turn 21.5 deg, left over 6.5 mm max, 21 frames still over 2 mm
+Resampled body keys to 60 fps: 165 frames
+Finger joint limits applied 51 times (bone-frames); worst: left index1 asked 151.1 deg, allowed 105.0 deg. The tracking was impossible there; check those frames.
+Face neutral from percentile: strongest resting scores {'mouthSmileLeft': 0.43, 'mouthSmileRight': 0.39, 'eyeLookDownLeft': 0.35, 'eyeLookDownRight': 0.34, 'browDownRight': 0.27}
+Baked "magnet_sign_2": 69 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 0, 'right_hand': 1, 'face': 0}
+Sampled 69 frames of "magnet_sign_2" -> reports/v2/magnet_sign_2/avatar_samples.json
+geometric_check: fail
+Report: reports/v2/magnet_sign_2/report.md
+=== electricity
+Detector switches crossfaded: {'left': 0, 'right': 1}
+Arm IK on: avatar arms 0.428 m, signer arms 0.447 m (left) / 0.494 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 2}
+Rest pose: left: 82 resting frames, 82 frames blended; right: 46 resting frames, 46 frames blended
+Thumb overlap correction: left: no overlap; right: 23 frames corrected, deepest 8.2 mm -> 1.0 mm, largest turn 20.7 deg, left over 5.3 mm max, 11 frames still over 2 mm
+Resampled body keys to 60 fps: 196 frames
+Finger joint limits applied 6 times (bone-frames); worst: right ring2 asked 150.3 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.64, 'eyeLookDownRight': 0.6, 'mouthPressLeft': 0.21, 'browDownRight': 0.19, 'browDownLeft': 0.19}
+Baked "electricity": 82 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 82, 'right_hand': 52, 'face': 0}
+Sampled 82 frames of "electricity" -> reports/v2/electricity/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/electricity/report.md
+=== computer
+Detector switches crossfaded: {'left': 3, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.383 m (left) / 0.533 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 5, 'right': 6}
+Depth-flipped hand frames left out (interpolated): right [13]
+Rest pose: left: 41 resting frames, 41 frames blended; right: 42 resting frames, 42 frames blended
+Thumb overlap correction: left: 26 frames corrected, deepest 8.2 mm -> 0.9 mm, largest turn 23.0 deg, left over 5.0 mm max, 4 frames still over 2 mm; right: 23 frames corrected, deepest 8.7 mm -> 5.9 mm, largest turn 24.5 deg, left over 6.2 mm max, 5 frames still over 2 mm
+Resampled body keys to 60 fps: 222 frames
+Finger joint limits applied 44 times (bone-frames); worst: right pinky2 asked 179.5 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.56, 'eyeLookDownRight': 0.51, 'browDownRight': 0.36, 'browDownLeft': 0.35, 'mouthSmileRight': 0.22}
+Baked "computer": 93 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 43, 'right_hand': 41, 'face': 0}
+Sampled 93 frames of "computer" -> reports/v2/computer/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/computer/report.md
+=== photosynthesis
+QC EXCEPTION used: see registry/signs.csv notes: QC EXCEPTION | problems: left_hand lost for 4 frames in a row while signing (max 3)
+Detector switches crossfaded: {'left': 14, 'right': 4}
+Arm IK on: avatar arms 0.428 m, signer arms 0.412 m (left) / 0.537 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 7, 'right': 6}
+Depth-flipped hand frames left out (interpolated): left [11, 203], right [27, 28, 29]
+Rest pose: left: 158 resting frames, 158 frames blended; right: 62 resting frames, 62 frames blended
+Thumb overlap correction: left: 78 frames corrected, deepest 8.7 mm -> 7.4 mm, largest turn 25.0 deg, left over 7.4 mm max, 23 frames still over 2 mm; right: 176 frames corrected, deepest 8.8 mm -> 7.8 mm, largest turn 24.6 deg, left over 7.8 mm max, 57 frames still over 2 mm
+Resampled body keys to 60 fps: 814 frames
+Finger joint limits applied 252 times (bone-frames); worst: right index1 asked 179.6 deg, allowed 105.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'mouthShrugLower': 0.84, 'eyeLookDownLeft': 0.51, 'mouthPressRight': 0.48, 'eyeLookDownRight': 0.46, 'mouthPressLeft': 0.33}
+Baked "photosynthesis": 326 frames at 24.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 150, 'right_hand': 61, 'face': 0}
+Sampled 326 frames of "photosynthesis" -> reports/v2/photosynthesis/avatar_samples.json
+geometric_check: fail
+Report: reports/v2/photosynthesis/report.md
+=== leaf
+Detector switches crossfaded: {'left': 0, 'right': 4}
+Arm IK on: avatar arms 0.428 m, signer arms 0.478 m (left) / 0.573 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 3}
+Depth-flipped hand frames left out (interpolated): right [20, 77]
+Rest pose: left: 87 resting frames, 87 frames blended; right: 31 resting frames, 31 frames blended
+Thumb overlap correction: left: no overlap; right: 46 frames corrected, deepest 8.0 mm -> 1.5 mm, largest turn 22.8 deg, left over 7.1 mm max, 11 frames still over 2 mm
+Resampled body keys to 60 fps: 208 frames
+Finger joint limits: no frame needed limiting.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.46, 'browDownLeft': 0.44, 'eyeLookDownRight': 0.42, 'browDownRight': 0.4, 'eyeSquintLeft': 0.21}
+Baked "leaf": 87 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 87, 'right_hand': 24, 'face': 0}
+Sampled 87 frames of "leaf" -> reports/v2/leaf/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/leaf/report.md
+=== food
+Detector switches crossfaded: {'left': 0, 'right': 1}
+Arm IK on: avatar arms 0.428 m, signer arms 0.494 m (left) / 0.543 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 0}
+Rest pose: left: 81 resting frames, 81 frames blended; right: 33 resting frames, 33 frames blended
+Thumb overlap correction: left: no overlap; right: 53 frames corrected, deepest 8.5 mm -> 0.9 mm, largest turn 23.0 deg, left over 6.9 mm max, 16 frames still over 2 mm
+Resampled body keys to 60 fps: 193 frames
+Finger joint limits: no frame needed limiting.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.48, 'eyeLookDownRight': 0.47, 'mouthPressLeft': 0.31, 'browInnerUp': 0.3, 'eyeLookOutLeft': 0.23}
+Baked "food": 81 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 81, 'right_hand': 45, 'face': 0}
+Sampled 81 frames of "food" -> reports/v2/food/avatar_samples.json
+geometric_check: fail
+Report: reports/v2/food/report.md
+=== make
+Detector switches crossfaded: {'left': 4, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.404 m (left) / 0.515 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 6, 'right': 1}
+Depth-flipped hand frames left out (interpolated): left [33, 34, 59]
+Rest pose: left: 53 resting frames, 53 frames blended; right: 52 resting frames, 52 frames blended
+Thumb overlap correction: left: 49 frames corrected, deepest 8.3 mm -> 6.5 mm, largest turn 18.4 deg, left over 6.7 mm max, 22 frames still over 2 mm; right: 49 frames corrected, deepest 8.9 mm -> 6.3 mm, largest turn 25.0 deg, left over 7.7 mm max, 40 frames still over 2 mm
+Resampled body keys to 60 fps: 232 frames
+Finger joint limits applied 1 times (bone-frames); worst: right pinky2 asked 115.6 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'mouthSmileLeft': 0.41, 'mouthSmileRight': 0.39, 'browDownRight': 0.34, 'browDownLeft': 0.31, 'eyeLookDownLeft': 0.28}
+Baked "make": 97 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 54, 'right_hand': 59, 'face': 0}
+Sampled 97 frames of "make" -> reports/v2/make/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/make/report.md
+=== sun
+Detector switches crossfaded: {'left': 0, 'right': 1}
+Arm IK on: avatar arms 0.428 m, signer arms 0.462 m (left) / 0.508 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 3}
+Depth-flipped hand frames left out (interpolated): right [45, 46]
+Rest pose: left: 71 resting frames, 71 frames blended; right: 29 resting frames, 29 frames blended
+Thumb overlap correction: left: no overlap; right: 7 frames corrected, deepest 6.7 mm -> 0.7 mm, largest turn 9.5 deg, left over 1.0 mm max, 0 frames still over 2 mm
+Resampled body keys to 60 fps: 169 frames
+Finger joint limits: no frame needed limiting.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.63, 'eyeLookDownRight': 0.6, 'browDownLeft': 0.15, 'mouthPressLeft': 0.13, 'eyeBlinkLeft': 0.13}
+Baked "sun": 71 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 71, 'right_hand': 36, 'face': 0}
+Sampled 71 frames of "sun" -> reports/v2/sun/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/sun/report.md
+=== water
+Detector switches crossfaded: {'left': 0, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.437 m (left) / 0.529 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 2}
+Rest pose: left: 81 resting frames, 81 frames blended; right: 45 resting frames, 45 frames blended
+Thumb overlap correction: left: no overlap; right: 5 frames corrected, deepest 5.1 mm -> 0.7 mm, largest turn 6.2 deg, left over 0.9 mm max, 0 frames still over 2 mm
+Resampled body keys to 60 fps: 193 frames
+Finger joint limits applied 90 times (bone-frames); worst: right pinky2 asked 165.0 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.52, 'eyeLookDownRight': 0.47, 'mouthShrugLower': 0.37, 'browDownRight': 0.31, 'browDownLeft': 0.3}
+Baked "water": 81 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 81, 'right_hand': 44, 'face': 0}
+Sampled 81 frames of "water" -> reports/v2/water/avatar_samples.json
+geometric_check: fail
+Report: reports/v2/water/report.md
+=== sugar
+Detector switches crossfaded: {'left': 0, 'right': 2}
+Arm IK on: avatar arms 0.428 m, signer arms 0.446 m (left) / 0.510 m (right)
+Hand shape from metric world points only (right); image-only frames interpolated instead of mixed in: {'right': 5}
+Depth-flipped hand frames left out (interpolated): right [13, 20, 24, 25]
+Rest pose: left: 95 resting frames, 95 frames blended; right: 50 resting frames, 50 frames blended
+Thumb overlap correction: left: no overlap; right: 35 frames corrected, deepest 9.1 mm -> 7.6 mm, largest turn 23.1 deg, left over 7.6 mm max, 23 frames still over 2 mm
+Resampled body keys to 60 fps: 227 frames
+Finger joint limits applied 3 times (bone-frames); worst: right index2 asked 129.1 deg, allowed 115.0 deg. The tracking was impossible there; check those frames.
+Face neutral from rest_frames: strongest resting scores {'eyeLookDownLeft': 0.62, 'eyeLookDownRight': 0.57, 'mouthShrugLower': 0.35, 'mouthPressRight': 0.19, 'mouthPressLeft': 0.15}
+Baked "sugar": 95 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 95, 'right_hand': 49, 'face': 0}
+Sampled 95 frames of "sugar" -> reports/v2/sugar/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/sugar/report.md
+=== carbon_dioxide_sign_2
+Detector switches crossfaded: {'left': 0, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.384 m (left) / 0.508 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 5, 'right': 3}
+Rest pose: left: 0 resting frames, 0 frames blended; right: 0 resting frames, 0 frames blended
+Thumb overlap correction: left: 7 frames corrected, deepest 7.1 mm -> 0.8 mm, largest turn 16.3 deg, left over 1.0 mm max, 0 frames still over 2 mm; right: 40 frames corrected, deepest 7.6 mm -> 0.7 mm, largest turn 23.3 deg, left over 4.7 mm max, 5 frames still over 2 mm
+Resampled body keys to 60 fps: 136 frames
+Finger joint limits applied 29 times (bone-frames); worst: right index1 asked 150.0 deg, allowed 105.0 deg. The tracking was impossible there; check those frames.
+Face neutral from percentile: strongest resting scores {'eyeLookDownLeft': 0.33, 'eyeLookDownRight': 0.33, 'browDownRight': 0.16, 'eyeSquintLeft': 0.15, 'eyeSquintRight': 0.13}
+Baked "carbon_dioxide_sign_2": 57 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 0, 'right_hand': 1, 'face': 0}
+Sampled 57 frames of "carbon_dioxide_sign_2" -> reports/v2/carbon_dioxide_sign_2/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/carbon_dioxide_sign_2/report.md
+=== oxygen_sign_2
+Detector switches crossfaded: {'left': 0, 'right': 0}
+Arm IK on: avatar arms 0.428 m, signer arms 0.372 m (left) / 0.511 m (right)
+Hand shape from metric world points only (left, right); image-only frames interpolated instead of mixed in: {'left': 4, 'right': 1}
+Depth-flipped hand frames left out (interpolated): right [2]
+Rest pose: left: 0 resting frames, 0 frames blended; right: 0 resting frames, 0 frames blended
+Thumb overlap correction: left: 32 frames corrected, deepest 6.5 mm -> 0.7 mm, largest turn 20.5 deg, left over 1.0 mm max, 0 frames still over 2 mm; right: 19 frames corrected, deepest 8.2 mm -> 6.4 mm, largest turn 20.8 deg, left over 6.4 mm max, 10 frames still over 2 mm
+Resampled body keys to 60 fps: 100 frames
+Finger joint limits applied 36 times (bone-frames); worst: right ring1 asked 123.9 deg, allowed 105.0 deg. The tracking was impossible there; check those frames.
+Face neutral from percentile: strongest resting scores {'eyeLookDownLeft': 0.42, 'eyeLookDownRight': 0.42, 'browDownRight': 0.19, 'eyeBlinkLeft': 0.16, 'eyeSquintRight': 0.16}
+Baked "oxygen_sign_2": 42 frames at 25.00 fps, 141 face shape keys. Untracked frames left unkeyed: {'left_hand': 0, 'right_hand': 2, 'face': 0}
+Sampled 42 frames of "oxygen_sign_2" -> reports/v2/oxygen_sign_2/avatar_samples.json
+geometric_check: pass
+Report: reports/v2/oxygen_sign_2/report.md
+Made "idle" from the natural rest pose
+Exported avatar/avatar.glb
+0 of 18 signs VERIFIED. Wrote /Users/nikitha/Desktop/ISL/isl_avatar/player/registry.json

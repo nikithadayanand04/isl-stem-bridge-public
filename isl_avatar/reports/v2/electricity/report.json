@@ -1,0 +1,222 @@
+{
+  "right": {
+    "excluded_frames": {
+      "impossible_bend": 3,
+      "image_only": 2,
+      "rest_pose": 1
+    },
+    "frames_with_hand": 24,
+    "hand_data": [
+      "world"
+    ],
+    "finger_flexion_error_deg": {
+      "n": 360,
+      "mean": 2.005,
+      "median": 0.36,
+      "p90": 2.907,
+      "max": 32.725
+    },
+    "finger_flexion_error_by_joint_deg": {
+      "thumb_cmc": {
+        "n": 24,
+        "mean": 20.459,
+        "median": 18.829,
+        "p90": 30.273,
+        "max": 32.725
+      },
+      "thumb_mcp": {
+        "n": 24,
+        "mean": 0.334,
+        "median": 0.136,
+        "p90": 0.352,
+        "max": 4.745
+      },
+      "thumb_ip": {
+        "n": 24,
+        "mean": 0.191,
+        "median": 0.197,
+        "p90": 0.399,
+        "max": 0.431
+      },
+      "index_mcp": {
+        "n": 24,
+        "mean": 1.522,
+        "median": 1.423,
+        "p90": 2.915,
+        "max": 3.75
+      },
+      "index_pip": {
+        "n": 24,
+        "mean": 0.233,
+        "median": 0.168,
+        "p90": 0.532,
+        "max": 1.204
+      },
+      "index_dip": {
+        "n": 24,
+        "mean": 0.981,
+        "median": 0.587,
+        "p90": 2.889,
+        "max": 3.059
+      },
+      "middle_mcp": {
+        "n": 24,
+        "mean": 0.293,
+        "median": 0.267,
+        "p90": 0.666,
+        "max": 1.272
+      },
+      "middle_pip": {
+        "n": 24,
+        "mean": 0.418,
+        "median": 0.284,
+        "p90": 1.279,
+        "max": 1.847
+      },
+      "middle_dip": {
+        "n": 24,
+        "mean": 0.726,
+        "median": 0.501,
+        "p90": 2.128,
+        "max": 2.608
+      },
+      "ring_mcp": {
+        "n": 24,
+        "mean": 1.568,
+        "median": 1.344,
+        "p90": 2.907,
+        "max": 5.593
+      },
+      "ring_pip": {
+        "n": 24,
+        "mean": 0.66,
+        "median": 0.304,
+        "p90": 1.323,
+        "max": 5.917
+      },
+      "ring_dip": {
+        "n": 24,
+        "mean": 0.53,
+        "median": 0.252,
+        "p90": 1.728,
+        "max": 2.499
+      },
+      "pinky_mcp": {
+        "n": 24,
+        "mean": 1.24,
+        "median": 1.327,
+        "p90": 3.018,
+        "max": 4.205
+      },
+      "pinky_pip": {
+        "n": 24,
+        "mean": 0.501,
+        "median": 0.234,
+        "p90": 1.511,
+        "max": 1.764
+      },
+      "pinky_dip": {
+        "n": 24,
+        "mean": 0.42,
+        "median": 0.201,
+        "p90": 1.175,
+        "max": 2.004
+      }
+    },
+    "finger_spread_error_deg": {
+      "n": 96,
+      "mean": 1.279,
+      "median": 0.491,
+      "p90": 3.757,
+      "max": 9.709
+    },
+    "palm_orientation_error_deg": {
+      "n": 24,
+      "mean": 0.33,
+      "median": 0.242,
+      "p90": 0.705,
+      "max": 1.976
+    },
+    "wrist_position_error": {
+      "n": 36,
+      "mean": 0.02,
+      "median": 0.02,
+      "p90": 0.026,
+      "max": 0.034
+    },
+    "elbow_position_error": {
+      "n": 36,
+      "mean": 0.086,
+      "median": 0.09,
+      "p90": 0.108,
+      "max": 0.15
+    },
+    "wrist_speed_correlation": 0.999,
+    "dtw_diagnostic": {
+      "aligned_mean_wrist_error": 0.02,
+      "original_time_mean_wrist_error": 0.02,
+      "median_frame_shift": 0
+    }
+  },
+  "contact": {
+    "source_frames": 0,
+    "avatar_frames": 0,
+    "matching_frames": 0,
+    "avatar_contact_not_in_source": 0,
+    "source_contact_missing_on_avatar": 0
+  },
+  "face_value_error": {
+    "n": 82,
+    "mean": 0.0,
+    "median": 0.0,
+    "p90": 0.0,
+    "max": 0.001
+  },
+  "body_dims": {
+    "source": {
+      "shoulder_width": 0.3312984152773123,
+      "torso": 0.4729893513781346,
+      "arm": 0.4703479898765606
+    },
+    "avatar": {
+      "shoulder_width": 0.285902311288314,
+      "arm": 0.4285038902974188,
+      "torso": 0.4167700000000002
+    }
+  },
+  "geometric_check": {
+    "result": "pass",
+    "checks": [
+      {
+        "check": "right finger flexion median (deg)",
+        "value": 0.36,
+        "limit": 5.0,
+        "passed": true
+      },
+      {
+        "check": "right finger flexion p90 (deg)",
+        "value": 2.907,
+        "limit": 15.0,
+        "passed": true
+      },
+      {
+        "check": "right palm orientation median (deg)",
+        "value": 0.242,
+        "limit": 10.0,
+        "passed": true
+      },
+      {
+        "check": "right palm orientation p90 (deg)",
+        "value": 0.705,
+        "limit": 25.0,
+        "passed": true
+      },
+      {
+        "check": "right wrist position median",
+        "value": 0.02,
+        "limit": 0.1,
+        "passed": true
+      }
+    ]
+  }
+}

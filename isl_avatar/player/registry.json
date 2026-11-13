@@ -1,0 +1,1128 @@
+{
+  "generated": "2026-11-12",
+  "signs": [
+    {
+      "sign_id": "magnet",
+      "english_term": "Magnet",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"M\" - Magnet.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Magnet.mp4",
+      "review_reference_video": "references/dict_Magnet.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/magnet/report.json",
+      "simple_english": "A magnet pulls things made of iron towards it.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "magnet_sign_2",
+      "english_term": "Magnet (Sign 2)",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "geometric comparison failed (see validation_report)",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"M\" - Magnet_(Sign_2).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Magnet_(Sign_2).mp4",
+      "review_reference_video": "references/dict_Magnet_(Sign_2).mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/magnet_sign_2/report.json",
+      "simple_english": "A magnet pulls things made of iron towards it.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "electricity",
+      "english_term": "Electricity",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"E\" - Electricity.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Electricity.mp4",
+      "review_reference_video": "references/dict_Electricity.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/electricity/report.json",
+      "simple_english": "Electricity is energy that flows through wires and makes lights, fans and computers work.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "computer",
+      "english_term": "Computer",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"C\" - Computer.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Computer.mp4",
+      "review_reference_video": "references/dict_Computer.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/computer/report.json",
+      "simple_english": "A computer is a machine that stores information and helps us work, learn and play.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "gravity",
+      "english_term": "Gravity",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"G\" - Gravity.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Gravity.mp4",
+      "review_reference_video": "references/dict_Gravity.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Gravity is the force that pulls things down towards the Earth.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "photosynthesis",
+      "english_term": "Photosynthesis",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "geometric comparison failed (see validation_report)",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"P\" - Photosynthesis.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Photosynthesis.mp4",
+      "review_reference_video": "references/dict_Photosynthesis.mp4",
+      "motion_qc": "pass_exception",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/photosynthesis/report.json",
+      "simple_english": "Plants use sunlight, water and air to make their own food.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "evaporation",
+      "english_term": "Evaporation",
+      "category": "B",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "isl_source is empty",
+        "source_reference is empty",
+        "attribution is empty",
+        "license_status is unknown, not granted",
+        "reference_video file not found",
+        "motion_file not found",
+        "motion_qc is pending, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD",
+        "category B but composed_of is empty"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "",
+        "reference": "",
+        "attribution": ""
+      },
+      "reference_video": "",
+      "review_reference_video": "",
+      "motion_qc": "pending",
+      "stages": {
+        "source_validated": false,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "When water gets warm, it turns into vapour and rises into the air.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "leaf",
+      "english_term": "Leaf",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"L\" - Leaf.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Leaf.mp4",
+      "review_reference_video": "references/dict_Leaf.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/leaf/report.json",
+      "simple_english": "A leaf is the flat green part of a plant that makes food.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "food",
+      "english_term": "Food",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "geometric comparison failed (see validation_report)",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"F\" - Food.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Food.mp4",
+      "review_reference_video": "references/dict_Food.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/food/report.json",
+      "simple_english": "Food is what living things eat or make to get energy.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "make",
+      "english_term": "Make",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"M\" - Make.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Make.mp4",
+      "review_reference_video": "references/dict_Make.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/make/report.json",
+      "simple_english": "To make something means to build or create it.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "sun",
+      "english_term": "Sun",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"S\" - Sun.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Sun.mp4",
+      "review_reference_video": "references/dict_Sun.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/sun/report.json",
+      "simple_english": "The Sun gives us light and heat.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "water",
+      "english_term": "Water",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "geometric comparison failed (see validation_report)",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"W\" - Water.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Water.mp4",
+      "review_reference_video": "references/dict_Water.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/water/report.json",
+      "simple_english": "Water is the clear liquid that plants, animals and people need to live.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "air",
+      "english_term": "Air",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"A\" - Air.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Air.mp4",
+      "review_reference_video": "references/dict_Air.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Air is all around us. We cannot see it, but we breathe it.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "carbon_dioxide",
+      "english_term": "Carbon dioxide",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"C\" - Carbon_Dioxide.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Carbon_Dioxide.mp4",
+      "review_reference_video": "references/dict_Carbon_Dioxide.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Carbon dioxide is a gas in the air. Plants take it in.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "sugar",
+      "english_term": "Sugar",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"S\" - Sugar.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Sugar.mp4",
+      "review_reference_video": "references/dict_Sugar.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/sugar/report.json",
+      "simple_english": "Sugar is a sweet food. Plants make sugar in their leaves.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "oxygen_academic",
+      "english_term": "Oxygen",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"O\" - Oxygen_(Academic).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Oxygen_(Academic).mp4",
+      "review_reference_video": "references/dict_Oxygen_(Academic).mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Oxygen is a gas in the air. We need it to breathe.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "carbon_dioxide_sign_2",
+      "english_term": "Carbon dioxide (Sign 2)",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"C\" - Carbon_Dioxide_(Sign_2).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Carbon_Dioxide_(Sign_2).mp4",
+      "review_reference_video": "references/dict_Carbon_Dioxide_(Sign_2).mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/carbon_dioxide_sign_2/report.json",
+      "simple_english": "Carbon dioxide is a gas in the air. Plants take it in.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "oxygen_sign_2",
+      "english_term": "Oxygen (Sign 2)",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"O\" - Oxygen_(Sign_2).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Oxygen_(Sign_2).mp4",
+      "review_reference_video": "references/dict_Oxygen_(Sign_2).mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/oxygen_sign_2/report.json",
+      "simple_english": "Oxygen is a gas in the air. We need it to breathe.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "soil",
+      "english_term": "Soil",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"S\" - Soil.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Soil.mp4",
+      "review_reference_video": "references/dict_Soil.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/soil/report.json",
+      "simple_english": "Soil is the top layer of the ground. Plants grow in it.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "energy",
+      "english_term": "Energy",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"E\" - Energy_(Sign).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Energy_(Sign).mp4",
+      "review_reference_video": "references/dict_Energy_(Sign).mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/energy/report.json",
+      "simple_english": "Energy is what makes things move, grow and work.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "grow_plants",
+      "english_term": "Grow (plants)",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"G\" - Grow_(Plants).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Grow_(Plants).mp4",
+      "review_reference_video": "references/dict_Grow_(Plants).mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/grow_plants/report.json",
+      "simple_english": "To grow means to get bigger.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "breathe",
+      "english_term": "Breathe",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"B\" - Breathe.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Breathe.mp4",
+      "review_reference_video": "references/dict_Breathe.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": true,
+        "geometric_comparison_passed": true,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/breathe/report.json",
+      "simple_english": "To breathe means to take air in and let it out.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "photosynthesis_process",
+      "english_term": "Photosynthesis process (explanation)",
+      "category": "B",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "retarget_check is fail, not pass",
+        "geometric comparison failed (see validation_report)",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD",
+        "category B but composed_of is empty"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"P\" - Photosynthesis_Process.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Photosynthesis_Process.mp4",
+      "review_reference_video": "references/dict_Photosynthesis_Process.mp4",
+      "motion_qc": "pass",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": true,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "reports/v2/photosynthesis_process/report.json",
+      "simple_english": "Plants use sunlight, water and carbon dioxide to make sugar and oxygen.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "chlorophyll",
+      "english_term": "Chlorophyll",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"C\" - Chlorophyll.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Chlorophyll.mp4",
+      "review_reference_video": "references/dict_Chlorophyll.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Chlorophyll is the green colouring in leaves that catches sunlight.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "chlorophyll_academic",
+      "english_term": "Chlorophyll (Academic)",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"C\" - Chlorophyll_(Academic).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Chlorophyll_(Academic).mp4",
+      "review_reference_video": "references/dict_Chlorophyll_(Academic).mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Chlorophyll is the green colouring in leaves that catches sunlight.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "stomata",
+      "english_term": "Stomata",
+      "category": "A",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"S\" - Stomata.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Stomata.mp4",
+      "review_reference_video": "references/dict_Stomata.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Stomata are tiny holes under a leaf that let air in and out.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "energy_explanation",
+      "english_term": "Energy (explanation)",
+      "category": "B",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD",
+        "category B but composed_of is empty"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"E\" - Energy_(Explanation).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Energy_(Explanation).mp4",
+      "review_reference_video": "references/dict_Energy_(Explanation).mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Energy is what makes things move, grow and work.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "gases_explanation",
+      "english_term": "Gases (explanation)",
+      "category": "B",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD",
+        "category B but composed_of is empty"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"G\" - Gases_(Explanation).mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Gases_(Explanation).mp4",
+      "review_reference_video": "references/dict_Gases_(Explanation).mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "Gases, like air, spread out to fill any space.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    },
+    {
+      "sign_id": "plant_nutrition",
+      "english_term": "Plant nutrition (explanation)",
+      "category": "B",
+      "status": "NOT VERIFIED",
+      "reasons": [
+        "motion_qc is fail, not pass",
+        "retarget_check is pending, not pass",
+        "geometric comparison report is missing",
+        "interpreter_review is not_reviewed, not approved",
+        "interpreter is empty",
+        "review_date is missing or not YYYY-MM-DD",
+        "category B but composed_of is empty"
+      ],
+      "composed_of": [],
+      "source": {
+        "name": "ISLRTC ISL dictionary video (full HD), from the team's shared dictionary folders",
+        "reference": "registry/dictionary_folders.csv folder \"P\" - Plant_Nutrition.mp4",
+        "attribution": "Indian Sign Language Research and Training Centre (ISLRTC)"
+      },
+      "reference_video": "references/dict_Plant_Nutrition.mp4",
+      "review_reference_video": "references/dict_Plant_Nutrition.mp4",
+      "motion_qc": "fail",
+      "stages": {
+        "source_validated": true,
+        "motion_extraction_passed": false,
+        "retargeting_passed": false,
+        "geometric_comparison_passed": false,
+        "interpreter_reviewed": false,
+        "interpreter_approved": false,
+        "published": false
+      },
+      "validation_report": "",
+      "simple_english": "How plants get and make their food.",
+      "illustration": "",
+      "review": {
+        "interpreter": "",
+        "result": "not_reviewed",
+        "date": ""
+      }
+    }
+  ]
+}

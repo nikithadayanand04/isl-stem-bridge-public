@@ -1,0 +1,152 @@
+/* Photosynthesis in ISL: student page. One screen: chapters, avatar beside the picture,
+   captions, word cards, controls. Team-only notes appear in review mode (?review=1). */
+
+:root {
+  --bg: #f5f3fa;
+  --panel: #ffffff;
+  --ink: #1d1b29;
+  --quiet: #615d78;
+  --line: #e0dbec;
+  --accent: #5b3fc4;
+  --accent-ink: #ffffff;
+  --soft: #efeafd;
+  --good: #1d7a4c;
+  --good-bg: #e3f4ea;
+  --gap: #8a2d4a;
+  --gap-bg: #fbe4ec;
+  --stage: #e9e6f2;
+  --mark: #ffe58a;
+  --radius: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14131b;
+    --panel: #1e1c28;
+    --ink: #f2f0f8;
+    --quiet: #b0abc6;
+    --line: #322f45;
+    --accent: #a993ff;
+    --accent-ink: #14131b;
+    --soft: #2a2640;
+    --good: #7fd8a6;
+    --good-bg: #183324;
+    --gap: #f3a3bd;
+    --gap-bg: #3b1724;
+    --stage: #24222f;
+  }
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  font: 18px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+button, select { font: inherit; }
+code { font-size: 0.9em; }
+
+/* ---------- top: title and chapters ---------- */
+.review-banner {
+  position: sticky; top: 0; z-index: 10;
+  padding: 8px 20px; font-weight: 700; font-size: 15px; color: #fff; background: #b3261e;
+}
+.topbar {
+  max-width: 1280px; margin: 0 auto; padding: 14px 20px 6px;
+  display: flex; align-items: center; gap: 12px;
+}
+h1 { margin: 0; font-size: 24px; line-height: 1.25; }
+.draft-badge {
+  flex: none; font-size: 13px; font-weight: 700; padding: 3px 10px; border-radius: 999px;
+  color: #8a5a00; background: #fff2d6; cursor: help;
+}
+.chapters {
+  max-width: 1280px; margin: 0 auto; padding: 6px 20px 8px;
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: thin;
+}
+.chapters button {
+  flex: none; font-size: 15px; font-weight: 600; color: var(--ink); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; min-height: 40px; cursor: pointer;
+}
+.chapters button:hover { border-color: var(--accent); }
+.chapters button[aria-current="step"] { color: var(--accent-ink); background: var(--accent); border-color: var(--accent); }
+
+/* ---------- avatar and picture ---------- */
+.lesson-page { max-width: 1280px; margin: 0 auto; padding: 4px 20px 28px; }
+.stage-row { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); gap: 14px; align-items: stretch; }
+.stage {
+  position: relative; background: var(--stage); border-radius: var(--radius); overflow: hidden;
+  min-height: 300px;
+}
+#avatar { display: block; width: 100%; height: 100%; min-height: 300px; }
+.overlay {
+  position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 6px; padding: 24px; text-align: center; color: var(--quiet);
+}
+.picture {
+  display: flex; flex-direction: column; background: var(--panel); border: 1px solid var(--line);
+  border-radius: var(--radius); overflow: hidden;
+}
+.diagram { display: block; width: 100%; height: min(42vh, calc((100vw - 60px) * 0.6 * 0.6)); min-height: 220px; background: #dff1ff; }
+
+/* ---------- caption, steps, words ---------- */
+.lesson { margin-top: 12px; }
+.step-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
+.lesson-part { margin: 0; font-size: 15px; font-weight: 700; color: var(--accent); }
+.steps { display: flex; gap: 6px; }
+.lesson-caption { margin: 8px 0 2px; font-size: 25px; line-height: 1.35; font-weight: 650; }
+.lesson-caption mark { background: var(--mark); color: #1f1d2b; padding: 0 4px; border-radius: 4px; }
+.lesson-caption-kn {
+  margin: 2px 0 4px; font-size: 21px; line-height: 1.5; color: var(--quiet);
+  font-family: "Noto Sans Kannada", "Kannada Sangam MN", "Tunga", system-ui, sans-serif;
+}
+.lesson-caption.off, .lesson-caption-kn.off { display: none; }
+.recap-points { margin: 6px 0; padding-left: 22px; font-size: 19px; }
+.isl-status { margin: 8px 0 0; padding: 8px 12px; border-radius: 8px; font-size: 15px; }
+.isl-status.available { color: var(--good); background: var(--good-bg); }
+.isl-status.awaiting { color: var(--gap); background: var(--gap-bg); }
+.key-terms { margin-top: 12px; }
+.key-terms-label { margin: 0 0 6px; font-size: 14px; font-weight: 700; color: var(--quiet); text-transform: uppercase; letter-spacing: .04em; }
+
+/* ---------- controls ---------- */
+.controls-bar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px;
+  margin-top: 10px; padding: 8px 10px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+}
+.transport, .options { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.transport button {
+  font-weight: 700; font-size: 16px; color: var(--accent-ink); background: var(--accent);
+  border: 0; border-radius: 10px; padding: 8px 14px; min-height: 44px; min-width: 44px; cursor: pointer;
+}
+.transport .play { min-width: 110px; }
+.transport button:disabled { opacity: 0.4; cursor: default; }
+.transport .secondary { background: transparent; color: var(--accent); border: 2px solid var(--accent); }
+.opt { display: flex; align-items: center; gap: 6px; font-size: 15px; }
+.opt select { font-size: 15px; padding: 4px 6px; border-radius: 6px; }
+.more { position: relative; font-size: 15px; }
+.more summary { cursor: pointer; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); list-style: none; }
+.more summary::after { content: " ▾"; }
+.more[open] .opt {
+  position: absolute; right: 0; top: calc(100% + 6px); z-index: 6; white-space: nowrap;
+  padding: 10px 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 6px 20px #0002;
+}
+
+/* Team notes and the reference video: review mode only. */
+.team-notes { display: none; margin-top: 10px; }
+body.review .team-notes { display: block; }
+.lesson-note { font-size: 13px; color: var(--quiet); margin: 4px 0 0; }
+.reference { margin: 16px 0 0; max-width: 640px; }
+.reference video { width: 100%; border-radius: 12px; background: #000; }
+.reference figcaption { font-size: 14px; color: var(--quiet); margin-top: 6px; }
+
+/* ---------- small screens ---------- */
+@media (max-width: 860px) {
+  .stage-row { grid-template-columns: 1fr; }
+  .stage, #avatar { min-height: 300px; height: 46vh; }
+  .diagram { height: auto; aspect-ratio: 600 / 360; }
+  h1 { font-size: 20px; }
+  .lesson-caption { font-size: 21px; }
+  .lesson-caption-kn { font-size: 18px; }
+  .topbar, .chapters, .lesson-page { padding-left: 16px; padding-right: 16px; }
+}

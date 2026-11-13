@@ -1,0 +1,291 @@
+{
+  "title": "Photosynthesis: how plants make their own food",
+  "lesson_id": "photosynthesis",
+  "subject": "Science",
+  "language_rule": "Every ISL explanation must be authored or recorded by a qualified ISL interpreter or Deaf ISL expert. Dictionary signs are offered only one at a time, as vocabulary, and are never strung together to stand in for an ISL sentence.",
+  "sections": [
+    {
+      "id": "introduction",
+      "kind": "introduction",
+      "heading": "Introduction",
+      "scene": "all",
+      "caption": "Plants make their own food. This is called photosynthesis. Watch the ISL explanation.",
+      "emphasis": [
+        "photosynthesis"
+      ],
+      "isl": {
+        "status": "available",
+        "sign": "photosynthesis",
+        "type": "recorded_explanation",
+        "author": "ISLRTC dictionary signer (Indian Sign Language Research and Training Centre)"
+      },
+      "kn": {
+        "caption": "ಸಸ್ಯಗಳು ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸುತ್ತವೆ. ಇದನ್ನು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಭಾರತೀಯ ಸಂಜ್ಞಾ ಭಾಷೆಯ ವಿವರಣೆಯನ್ನು ನೋಡಿ."
+      }
+    },
+    {
+      "id": "concept",
+      "kind": "concept",
+      "heading": "The big idea",
+      "scene": "plant",
+      "caption": "A plant needs light, water and carbon dioxide. With these it makes sugar, its food. It gives out oxygen.",
+      "emphasis": [
+        "light",
+        "water",
+        "carbon dioxide",
+        "sugar",
+        "oxygen"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "photosynthesis",
+        "food",
+        "make"
+      ],
+      "kn": {
+        "caption": "ಸಸ್ಯಕ್ಕೆ ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಬೇಕು. ಇವುಗಳಿಂದ ಅದು ತನ್ನ ಆಹಾರವಾದ ಸಕ್ಕರೆಯನ್ನು ತಯಾರಿಸುತ್ತದೆ. ಅದು ಆಮ್ಲಜನಕವನ್ನು ಹೊರಗೆ ಬಿಡುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "step_light",
+      "kind": "step",
+      "topic": "light_energy",
+      "heading": "Step 1 · Light",
+      "scene": "sun",
+      "caption": "The leaves catch light from the Sun. Light gives the plant the energy to make food.",
+      "emphasis": [
+        "light",
+        "energy"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "sun",
+        "leaf"
+      ],
+      "kn": {
+        "caption": "ಎಲೆಗಳು ಸೂರ್ಯನಿಂದ ಬೆಳಕನ್ನು ಹಿಡಿಯುತ್ತವೆ. ಆಹಾರ ತಯಾರಿಸಲು ಬೇಕಾದ ಶಕ್ತಿಯನ್ನು ಬೆಳಕು ಸಸ್ಯಕ್ಕೆ ನೀಡುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "step_water",
+      "kind": "step",
+      "topic": "water_absorption",
+      "heading": "Step 2 · Water",
+      "scene": "water",
+      "caption": "The roots take in water from the soil. The water travels up the stem to the leaves.",
+      "emphasis": [
+        "roots",
+        "water"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "water",
+        "leaf"
+      ],
+      "kn": {
+        "caption": "ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ. ನೀರು ಕಾಂಡದ ಮೂಲಕ ಮೇಲೇರಿ ಎಲೆಗಳನ್ನು ತಲುಪುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "step_air",
+      "kind": "step",
+      "topic": "gas_exchange_co2",
+      "heading": "Step 3 · Carbon dioxide in",
+      "scene": "air",
+      "caption": "Tiny openings in the leaves take in carbon dioxide from the air.",
+      "emphasis": [
+        "carbon dioxide"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "carbon_dioxide_sign_2"
+      ],
+      "kn": {
+        "caption": "ಎಲೆಗಳಲ್ಲಿರುವ ಸಣ್ಣ ರಂಧ್ರಗಳು ಗಾಳಿಯಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ."
+      }
+    },
+    {
+      "id": "step_sugar",
+      "kind": "step",
+      "topic": "sugar_production",
+      "heading": "Step 4 · Making sugar",
+      "scene": "food",
+      "caption": "Inside the leaf, the light's energy joins water and carbon dioxide to make sugar. Sugar is the plant's food.",
+      "emphasis": [
+        "sugar",
+        "food"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "sugar",
+        "food",
+        "make"
+      ],
+      "kn": {
+        "caption": "ಎಲೆಯೊಳಗೆ, ಬೆಳಕಿನ ಶಕ್ತಿಯಿಂದ ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಸೇರಿ ಸಕ್ಕರೆ ತಯಾರಾಗುತ್ತದೆ. ಸಕ್ಕರೆಯೇ ಸಸ್ಯದ ಆಹಾರ."
+      }
+    },
+    {
+      "id": "step_oxygen",
+      "kind": "step",
+      "topic": "gas_exchange_o2",
+      "heading": "Step 5 · Oxygen out",
+      "scene": "oxygen",
+      "caption": "The leaf gives out oxygen into the air. People and animals breathe this oxygen.",
+      "emphasis": [
+        "oxygen"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "oxygen_sign_2"
+      ],
+      "kn": {
+        "caption": "ಎಲೆ ಗಾಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಬಿಡುತ್ತದೆ. ಮನುಷ್ಯರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಈ ಆಮ್ಲಜನಕವನ್ನು ಉಸಿರಾಡುತ್ತಾರೆ."
+      }
+    },
+    {
+      "id": "step_growth",
+      "kind": "step",
+      "topic": "growth",
+      "heading": "Step 6 · Growing",
+      "scene": "growth",
+      "caption": "The plant uses the sugar for energy and to build new leaves, stems and roots. That is how it grows.",
+      "emphasis": [
+        "energy",
+        "grows"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "key_terms": [
+        "sugar",
+        "leaf"
+      ],
+      "kn": {
+        "caption": "ಸಸ್ಯವು ಸಕ್ಕರೆಯನ್ನು ಶಕ್ತಿಗಾಗಿ ಮತ್ತು ಹೊಸ ಎಲೆ, ಕಾಂಡ ಮತ್ತು ಬೇರುಗಳನ್ನು ಬೆಳೆಸಲು ಬಳಸುತ್ತದೆ. ಹೀಗೆ ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "key_terms",
+      "kind": "key_terms",
+      "heading": "Key words in ISL",
+      "scene": "all",
+      "caption": "Tap a word to see its ISL sign. Each sign is one word from the ISLRTC dictionary.",
+      "terms": [
+        {
+          "term": "Photosynthesis",
+          "sign": "photosynthesis"
+        },
+        {
+          "term": "Leaf",
+          "sign": "leaf"
+        },
+        {
+          "term": "Sun",
+          "sign": "sun"
+        },
+        {
+          "term": "Water",
+          "sign": "water"
+        },
+        {
+          "term": "Carbon dioxide",
+          "sign": "carbon_dioxide_sign_2"
+        },
+        {
+          "term": "Oxygen",
+          "sign": "oxygen_sign_2"
+        },
+        {
+          "term": "Sugar",
+          "sign": "sugar"
+        },
+        {
+          "term": "Food",
+          "sign": "food"
+        },
+        {
+          "term": "Make",
+          "sign": "make"
+        },
+        {
+          "term": "Air",
+          "sign": null,
+          "why": "The ISLRTC recording loses the signing hand for 7 frames in a row, so it fails the quality check. Not shown rather than guessed."
+        },
+        {
+          "term": "Roots",
+          "sign": null,
+          "why": "No ISLRTC recording in the project yet."
+        },
+        {
+          "term": "Energy",
+          "sign": null,
+          "why": "No ISLRTC recording in the project yet."
+        },
+        {
+          "term": "Grow",
+          "sign": null,
+          "why": "No ISLRTC recording in the project yet."
+        }
+      ],
+      "kn": {
+        "caption": "ಒಂದು ಪದದ ಮೇಲೆ ಒತ್ತಿ, ಅದರ ಸಂಜ್ಞೆಯನ್ನು ನೋಡಿ. ಪ್ರತಿಯೊಂದು ಸಂಜ್ಞೆಯೂ ISLRTC ನಿಘಂಟಿನ ಒಂದು ಪದ."
+      }
+    },
+    {
+      "id": "recap",
+      "kind": "recap",
+      "heading": "Recap",
+      "scene": "all",
+      "caption": "Light + water + carbon dioxide → sugar + oxygen. The plant uses the sugar to live and grow.",
+      "points": [
+        "Leaves catch light energy from the Sun.",
+        "Roots take in water from the soil.",
+        "Leaves take in carbon dioxide and give out oxygen.",
+        "The leaf makes sugar, the plant's food.",
+        "The plant uses sugar to grow."
+      ],
+      "emphasis": [
+        "sugar",
+        "oxygen",
+        "grow"
+      ],
+      "isl": {
+        "status": "available",
+        "sign": "photosynthesis",
+        "type": "recorded_explanation",
+        "author": "ISLRTC dictionary signer (Indian Sign Language Research and Training Centre)"
+      },
+      "kn": {
+        "caption": "ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಸಕ್ಕರೆ ಮತ್ತು ಆಮ್ಲಜನಕ ತಯಾರಾಗುತ್ತವೆ. ಸಸ್ಯವು ಬದುಕಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಕ್ಕರೆಯನ್ನು ಬಳಸುತ್ತದೆ.",
+        "points": [
+          "ಎಲೆಗಳು ಸೂರ್ಯನಿಂದ ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನು ಹಿಡಿಯುತ್ತವೆ.",
+          "ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+          "ಎಲೆಗಳು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಂಡು ಆಮ್ಲಜನಕವನ್ನು ಹೊರಗೆ ಬಿಡುತ್ತವೆ.",
+          "ಎಲೆ ಸಸ್ಯದ ಆಹಾರವಾದ ಸಕ್ಕರೆಯನ್ನು ತಯಾರಿಸುತ್ತದೆ.",
+          "ಸಸ್ಯವು ಬೆಳೆಯಲು ಸಕ್ಕರೆಯನ್ನು ಬಳಸುತ್ತದೆ."
+        ]
+      }
+    }
+  ],
+  "narration": {
+    "language": "kn",
+    "language_name": "ಕನ್ನಡ (Kannada)",
+    "audio_dir": "audio/kn",
+    "translation_status": "DRAFT machine-assisted translation (11 Nov 2026); must be checked by a fluent Kannada speaker, ideally a science teacher, before students use it.",
+    "lip_sync": "Always on during narration, including while the avatar signs (project decision, 11 Nov 2026). This replaces the ISLRTC signer's own mouth movements during narration."
+  }
+}

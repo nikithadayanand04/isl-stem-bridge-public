@@ -1,0 +1,13 @@
+magnet                   fail  left wrist error median; left handshape error median; right wrist error median; right wrist error p90
+magnet_sign_2            fail  left wrist error median; left peak height error; right wrist error median; right wrist error p90; right peak height error
+electricity              fail  right wrist error median; right wrist error p90
+computer                 fail  left wrist error median; left peak height error; left handshape error median; right wrist error median; right peak height error; right handshape error median
+photosynthesis           fail  left wrist error median; left wrist error p90; left peak height error; left handshape error median; right wrist error median; right wrist error p90; right peak height error; right handshape error median
+leaf                     fail  right wrist error median; right wrist error p90; right peak height error
+food                     fail  right wrist error median; right wrist error p90; right peak height error
+make                     fail  left wrist error median; left handshape error median; right wrist error median; right wrist error p90; right peak height error
+sun                      fail  right wrist error median; right wrist error p90
+water                    fail  right wrist error median; right wrist error p90; right peak height error
+sugar                    fail  right wrist error median; right wrist error p90; right peak height error; right handshape error median
+carbon_dioxide_sign_2    fail  left wrist error median; left wrist error p90; left peak height error; left handshape error median; right wrist error median; right wrist error p90; right peak height error
+oxygen_sign_2            fail  left wrist error median; left wrist error p90; left peak height error; left handshape error median; right wrist error median; right wrist error p90; right peak height error; right handshape error median

@@ -1,0 +1,13 @@
+magnet                   fail  left handshape error median
+magnet_sign_2            pass  
+electricity              pass  
+computer                 fail  left handshape error median; right handshape error median
+photosynthesis           fail  left handshape error median
+leaf                     pass  
+food                     fail  right wrist error median
+make                     fail  left handshape error median
+sun                      pass  
+water                    pass  
+sugar                    fail  right handshape error median
+carbon_dioxide_sign_2    fail  left wrist error median; left wrist error p90; left handshape error median; right wrist error median; right wrist error p90
+oxygen_sign_2            fail  left wrist error median; left handshape error median; right handshape error median

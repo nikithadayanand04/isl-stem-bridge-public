@@ -1,0 +1,1851 @@
+{
+  "title": "Photosynthesis: how plants make their own food",
+  "lesson_id": "photosynthesis",
+  "subject": "Science",
+  "language_rule": "Every ISL explanation must be authored or recorded by a qualified ISL interpreter or Deaf ISL expert. Dictionary signs are offered only one at a time, as vocabulary, and are never strung together to stand in for an ISL sentence.",
+  "sections": [
+    {
+      "id": "introduction",
+      "kind": "chapter",
+      "heading": "What is photosynthesis?",
+      "kn_heading": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಎಂದರೇನು?",
+      "scene": "intro",
+      "concept": {
+        "term": "Photosynthesis",
+        "kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+        "sign": "photosynthesis"
+      },
+      "emphasis": [
+        "photosynthesis",
+        "food",
+        "light",
+        "water",
+        "carbon dioxide"
+      ],
+      "key_terms": [
+        "photosynthesis",
+        "food",
+        "make"
+      ],
+      "isl": {
+        "status": "available",
+        "sign": "photosynthesis",
+        "type": "recorded_explanation",
+        "author": "ISLRTC dictionary signer (Indian Sign Language Research and Training Centre)",
+        "note": "ISLRTC's own short explanation of photosynthesis. It is not a word-for-word translation of these captions."
+      },
+      "beats": [
+        {
+          "text": "All living things need food to live and grow.",
+          "kn": "ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೂ ಬದುಕಲು ಮತ್ತು ಬೆಳೆಯಲು ಆಹಾರ ಬೇಕು.",
+          "words": [
+            "food",
+            "living_things",
+            "grow"
+          ]
+        },
+        {
+          "text": "People, animals, birds, fish and plants are all living things. They all need food.",
+          "kn": "ಮನುಷ್ಯರು, ಪ್ರಾಣಿಗಳು, ಪಕ್ಷಿಗಳು, ಮೀನುಗಳು ಮತ್ತು ಸಸ್ಯಗಳು ಎಲ್ಲವೂ ಜೀವಿಗಳು. ಎಲ್ಲಕ್ಕೂ ಆಹಾರ ಬೇಕು.",
+          "gallery": {
+            "title": "Living things need food",
+            "kn_title": "ಜೀವಿಗಳಿಗೆ ಆಹಾರ ಬೇಕು",
+            "cards": [
+              {
+                "icon": "person_breath",
+                "en": "Person",
+                "kn": "ಮನುಷ್ಯ"
+              },
+              {
+                "icon": "cow",
+                "en": "Cow",
+                "kn": "ಹಸು"
+              },
+              {
+                "icon": "bird",
+                "en": "Bird",
+                "kn": "ಪಕ್ಷಿ"
+              },
+              {
+                "icon": "fish",
+                "en": "Fish",
+                "kn": "ಮೀನು"
+              },
+              {
+                "icon": "tree",
+                "en": "Plant",
+                "kn": "ಸಸ್ಯ"
+              }
+            ]
+          },
+          "words": [
+            "living_things",
+            "food"
+          ]
+        },
+        {
+          "text": "People and animals find food and eat it. A plant cannot walk to find food.",
+          "kn": "ಮನುಷ್ಯರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಆಹಾರವನ್ನು ಹುಡುಕಿ ತಿನ್ನುತ್ತವೆ. ಸಸ್ಯವು ಆಹಾರ ಹುಡುಕಿಕೊಂಡು ನಡೆಯಲಾರದು.",
+          "words": [
+            "food",
+            "plant"
+          ]
+        },
+        {
+          "text": "So a plant makes its own food, in its leaves.",
+          "kn": "ಆದ್ದರಿಂದ ಸಸ್ಯವು ತನ್ನ ಆಹಾರವನ್ನು ತಾನೇ, ತನ್ನ ಎಲೆಗಳಲ್ಲಿ ತಯಾರಿಸುತ್ತದೆ.",
+          "words": [
+            "make",
+            "food",
+            "leaf"
+          ]
+        },
+        {
+          "text": "This is called photosynthesis. Photo means light. Synthesis means putting things together.",
+          "kn": "ಇದನ್ನು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಎನ್ನುತ್ತಾರೆ. ದ್ಯುತಿ ಎಂದರೆ ಬೆಳಕು. ಸಂಶ್ಲೇಷಣೆ ಎಂದರೆ ವಸ್ತುಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವುದು.",
+          "words": [
+            "photosynthesis",
+            "light"
+          ]
+        },
+        {
+          "text": "The plant puts together sunlight, water and carbon dioxide to make food. Let us meet each one.",
+          "kn": "ಸಸ್ಯವು ಸೂರ್ಯನ ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತದೆ. ಬನ್ನಿ, ಒಂದೊಂದನ್ನೂ ಪರಿಚಯ ಮಾಡಿಕೊಳ್ಳೋಣ.",
+          "words": [
+            "water",
+            "sun",
+            "carbon_dioxide",
+            "food",
+            "make"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plant",
+      "kind": "chapter",
+      "heading": "The plant",
+      "kn_heading": "ಸಸ್ಯ",
+      "scene": "plant",
+      "concept": {
+        "term": "Plant",
+        "kn": "ಸಸ್ಯ",
+        "sign": null,
+        "why": "The ISLRTC dictionary folders have no sign for 'plant' on its own (only 'Tree', 'Grow (Plants)' and longer phrases). An interpreter must give the sign; it is not guessed."
+      },
+      "emphasis": [
+        "roots",
+        "stem",
+        "leaves",
+        "flower"
+      ],
+      "key_terms": [
+        "leaf",
+        "grow_plants"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "This is a plant. It has four main parts.",
+          "kn": "ಇದು ಒಂದು ಸಸ್ಯ. ಇದಕ್ಕೆ ನಾಲ್ಕು ಮುಖ್ಯ ಭಾಗಗಳಿವೆ.",
+          "words": [
+            "plant"
+          ]
+        },
+        {
+          "text": "Plants come in many kinds. A tree, a bush, grass, a tulsi plant, a creeper and a cactus are all plants.",
+          "kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಹಲವು ಬಗೆಗಳಿವೆ. ಮರ, ಪೊದೆ, ಹುಲ್ಲು, ತುಳಸಿ ಗಿಡ, ಬಳ್ಳಿ ಮತ್ತು ಕಳ್ಳಿ ಎಲ್ಲವೂ ಸಸ್ಯಗಳೇ.",
+          "gallery": {
+            "title": "All of these are plants",
+            "kn_title": "ಇವೆಲ್ಲವೂ ಸಸ್ಯಗಳು",
+            "cards": [
+              {
+                "icon": "tree",
+                "en": "Tree",
+                "kn": "ಮರ",
+                "mark": "yes",
+                "note": "big, with a hard trunk"
+              },
+              {
+                "icon": "bush",
+                "en": "Bush",
+                "kn": "ಪೊದೆ",
+                "mark": "yes",
+                "note": "short, many stems"
+              },
+              {
+                "icon": "grass",
+                "en": "Grass",
+                "kn": "ಹುಲ್ಲು",
+                "mark": "yes",
+                "note": "thin, soft leaves"
+              },
+              {
+                "icon": "tulsi",
+                "en": "Tulsi",
+                "kn": "ತುಳಸಿ",
+                "mark": "yes",
+                "note": "a small plant"
+              },
+              {
+                "icon": "creeper",
+                "en": "Creeper",
+                "kn": "ಬಳ್ಳಿ",
+                "mark": "yes",
+                "note": "climbs on support"
+              },
+              {
+                "icon": "cactus",
+                "en": "Cactus",
+                "kn": "ಕಳ್ಳಿ",
+                "mark": "yes",
+                "note": "thick green stem"
+              }
+            ]
+          },
+          "words": [
+            "plant",
+            "tree"
+          ]
+        },
+        {
+          "text": "The roots grow under the soil. They hold the plant firmly and take in water.",
+          "kn": "ಬೇರುಗಳು ಮಣ್ಣಿನೊಳಗೆ ಬೆಳೆಯುತ್ತವೆ. ಅವು ಸಸ್ಯವನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+          "words": [
+            "root",
+            "soil",
+            "water"
+          ]
+        },
+        {
+          "text": "The stem holds the plant up. Like a pipe, it carries water up to the leaves.",
+          "kn": "ಕಾಂಡವು ಸಸ್ಯವನ್ನು ನೇರವಾಗಿ ನಿಲ್ಲಿಸುತ್ತದೆ. ಕೊಳವೆಯಂತೆ ಅದು ನೀರನ್ನು ಎಲೆಗಳವರೆಗೆ ಮೇಲಕ್ಕೆ ಸಾಗಿಸುತ್ತದೆ.",
+          "words": [
+            "stem",
+            "water",
+            "leaf"
+          ]
+        },
+        {
+          "text": "The leaves are flat and green. They are the plant's kitchen: food is made here.",
+          "kn": "ಎಲೆಗಳು ಚಪ್ಪಟೆಯಾಗಿ ಹಸಿರಾಗಿವೆ. ಅವು ಸಸ್ಯದ ಅಡುಗೆಮನೆ: ಆಹಾರ ಇಲ್ಲಿಯೇ ತಯಾರಾಗುತ್ತದೆ.",
+          "words": [
+            "leaf",
+            "food"
+          ]
+        },
+        {
+          "text": "The flower makes seeds, and new plants grow from the seeds.",
+          "kn": "ಹೂವು ಬೀಜಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ. ಬೀಜಗಳಿಂದ ಹೊಸ ಸಸ್ಯಗಳು ಬೆಳೆಯುತ್ತವೆ.",
+          "words": [
+            "grow",
+            "flower",
+            "seed"
+          ]
+        },
+        {
+          "text": "A tree has the same parts. Its trunk is a big, hard stem. Its roots are under the ground.",
+          "kn": "ಮರಕ್ಕೂ ಇದೇ ಭಾಗಗಳಿವೆ. ಅದರ ಬುಡ ಅಥವಾ ಕಾಂಡ ದೊಡ್ಡ, ಗಟ್ಟಿಯಾದ ಕಾಂಡ. ಅದರ ಬೇರುಗಳು ನೆಲದ ಕೆಳಗಿವೆ.",
+          "gallery": {
+            "title": "Parts of a plant, one by one",
+            "kn_title": "ಸಸ್ಯದ ಭಾಗಗಳು, ಒಂದೊಂದಾಗಿ",
+            "cards": [
+              {
+                "icon": "root_piece",
+                "en": "Root",
+                "kn": "ಬೇರು",
+                "note": "under the ground"
+              },
+              {
+                "icon": "stem_piece",
+                "en": "Stem",
+                "kn": "ಕಾಂಡ",
+                "note": "holds the plant up"
+              },
+              {
+                "icon": "tree_parts",
+                "en": "Trunk = stem",
+                "kn": "ಬುಡ = ಕಾಂಡ",
+                "note": "a tree's stem"
+              },
+              {
+                "icon": "mango_leaf",
+                "en": "Leaf",
+                "kn": "ಎಲೆ",
+                "note": "flat and green"
+              },
+              {
+                "icon": "flower",
+                "en": "Flower",
+                "kn": "ಹೂವು",
+                "note": "makes seeds"
+              },
+              {
+                "icon": "fruit",
+                "en": "Fruit",
+                "kn": "ಹಣ್ಣು",
+                "note": "holds the seeds"
+              }
+            ]
+          },
+          "words": [
+            "tree",
+            "root",
+            "stem",
+            "leaf",
+            "flower"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sun",
+      "kind": "chapter",
+      "heading": "The Sun",
+      "kn_heading": "ಸೂರ್ಯ",
+      "scene": "sun",
+      "concept": {
+        "term": "Sun",
+        "kn": "ಸೂರ್ಯ",
+        "sign": "sun"
+      },
+      "emphasis": [
+        "Sun",
+        "light",
+        "heat",
+        "energy"
+      ],
+      "key_terms": [
+        "sun",
+        "energy"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "This is the Sun. It is a star: a huge ball of very hot gas.",
+          "kn": "ಇದು ಸೂರ್ಯ. ಸೂರ್ಯ ಒಂದು ನಕ್ಷತ್ರ: ತುಂಬಾ ಬಿಸಿಯಾದ ಅನಿಲದ ದೊಡ್ಡ ಚೆಂಡು.",
+          "words": [
+            "sun",
+            "gas"
+          ]
+        },
+        {
+          "text": "The Sun gives out light and heat.",
+          "kn": "ಸೂರ್ಯನು ಬೆಳಕು ಮತ್ತು ಶಾಖವನ್ನು ಕೊಡುತ್ತಾನೆ.",
+          "words": [
+            "sun",
+            "light",
+            "heat"
+          ]
+        },
+        {
+          "text": "We feel the Sun every day: it dries our clothes and lights up the day.",
+          "kn": "ನಾವು ದಿನವೂ ಸೂರ್ಯನನ್ನು ಅನುಭವಿಸುತ್ತೇವೆ: ಅದು ನಮ್ಮ ಬಟ್ಟೆ ಒಣಗಿಸುತ್ತದೆ, ಹಗಲನ್ನು ಬೆಳಗಿಸುತ್ತದೆ.",
+          "gallery": {
+            "title": "The Sun's light and heat",
+            "kn_title": "ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಶಾಖ",
+            "cards": [
+              {
+                "icon": "sun",
+                "en": "Sun",
+                "kn": "ಸೂರ್ಯ"
+              },
+              {
+                "icon": "drying_clothes",
+                "en": "Heat dries clothes",
+                "kn": "ಶಾಖ ಬಟ್ಟೆ ಒಣಗಿಸುತ್ತದೆ"
+              },
+              {
+                "icon": "plant_in_sun",
+                "en": "Light for plants",
+                "kn": "ಸಸ್ಯಗಳಿಗೆ ಬೆಳಕು"
+              }
+            ]
+          },
+          "words": [
+            "sun",
+            "heat",
+            "light"
+          ]
+        },
+        {
+          "text": "Sunlight travels about 15 crore kilometres to reach the Earth. It takes about 8 minutes.",
+          "kn": "ಸೂರ್ಯನ ಬೆಳಕು ಸುಮಾರು 15 ಕೋಟಿ ಕಿಲೋಮೀಟರ್ ಪ್ರಯಾಣಿಸಿ ಭೂಮಿಯನ್ನು ತಲುಪುತ್ತದೆ. ಅದಕ್ಕೆ ಸುಮಾರು 8 ನಿಮಿಷ ಬೇಕು.",
+          "words": [
+            "sun",
+            "light"
+          ]
+        },
+        {
+          "text": "When sunlight falls on a leaf, the leaf catches its energy.",
+          "kn": "ಸೂರ್ಯನ ಬೆಳಕು ಎಲೆಯ ಮೇಲೆ ಬಿದ್ದಾಗ, ಎಲೆ ಅದರ ಶಕ್ತಿಯನ್ನು ಹಿಡಿದುಕೊಳ್ಳುತ್ತದೆ.",
+          "words": [
+            "energy",
+            "light",
+            "leaf"
+          ]
+        },
+        {
+          "text": "Without light, a plant cannot make food. That is why plants grow towards light.",
+          "kn": "ಬೆಳಕಿಲ್ಲದೆ ಸಸ್ಯವು ಆಹಾರ ತಯಾರಿಸಲಾರದು. ಅದಕ್ಕೇ ಸಸ್ಯಗಳು ಬೆಳಕಿನ ಕಡೆಗೆ ಬೆಳೆಯುತ್ತವೆ.",
+          "words": [
+            "food",
+            "light",
+            "grow"
+          ]
+        },
+        {
+          "text": "A plant kept in the dark turns pale and weak. A plant in sunlight stays green and strong.",
+          "kn": "ಕತ್ತಲಲ್ಲಿ ಇಟ್ಟ ಸಸ್ಯ ಬಿಳಿಚಿಕೊಂಡು ದುರ್ಬಲವಾಗುತ್ತದೆ. ಬಿಸಿಲಿನಲ್ಲಿರುವ ಸಸ್ಯ ಹಸಿರಾಗಿ ಗಟ್ಟಿಯಾಗಿರುತ್ತದೆ.",
+          "gallery": {
+            "title": "Sunlight or dark?",
+            "kn_title": "ಬಿಸಿಲು ಅಥವಾ ಕತ್ತಲು?",
+            "cards": [
+              {
+                "icon": "plant_in_sun",
+                "en": "In sunlight: green",
+                "kn": "ಬಿಸಿಲಿನಲ್ಲಿ: ಹಸಿರು",
+                "mark": "yes"
+              },
+              {
+                "icon": "plant_in_dark",
+                "en": "In the dark: pale",
+                "kn": "ಕತ್ತಲಲ್ಲಿ: ಬಿಳಿಚು",
+                "mark": "no"
+              }
+            ]
+          },
+          "words": [
+            "light",
+            "plant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soil",
+      "kind": "chapter",
+      "heading": "Soil",
+      "kn_heading": "ಮಣ್ಣು",
+      "scene": "soil",
+      "concept": {
+        "term": "Soil",
+        "kn": "ಮಣ್ಣು",
+        "sign": "soil"
+      },
+      "emphasis": [
+        "soil",
+        "humus",
+        "water",
+        "air",
+        "minerals"
+      ],
+      "key_terms": [
+        "soil",
+        "water"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "This is soil, the top layer of the ground.",
+          "kn": "ಇದು ಮಣ್ಣು, ನೆಲದ ಮೇಲಿನ ಪದರ.",
+          "words": [
+            "soil"
+          ]
+        },
+        {
+          "text": "Soil is made of tiny bits of rock, sand and clay, mixed with rotting leaves called humus.",
+          "kn": "ಮಣ್ಣು ಕಲ್ಲು, ಮರಳು ಮತ್ತು ಜೇಡಿಮಣ್ಣಿನ ಸಣ್ಣ ಕಣಗಳಿಂದ ಆಗಿದೆ. ಅದರಲ್ಲಿ ಕೊಳೆತ ಎಲೆಗಳು, ಅಂದರೆ ಹ್ಯೂಮಸ್, ಬೆರೆತಿರುತ್ತದೆ.",
+          "words": [
+            "soil",
+            "humus"
+          ]
+        },
+        {
+          "text": "Soils have different colours. In Karnataka we see red soil and black soil. There is also sandy soil and clay soil.",
+          "kn": "ಮಣ್ಣಿನಲ್ಲಿ ಬೇರೆ ಬೇರೆ ಬಣ್ಣಗಳಿವೆ. ಕರ್ನಾಟಕದಲ್ಲಿ ಕೆಂಪು ಮಣ್ಣು ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಕಾಣುತ್ತೇವೆ. ಮರಳು ಮಣ್ಣು ಮತ್ತು ಜೇಡಿಮಣ್ಣು ಕೂಡ ಇವೆ.",
+          "gallery": {
+            "title": "Kinds of soil",
+            "kn_title": "ಮಣ್ಣಿನ ಬಗೆಗಳು",
+            "cards": [
+              {
+                "icon": "red_soil",
+                "en": "Red soil",
+                "kn": "ಕೆಂಪು ಮಣ್ಣು"
+              },
+              {
+                "icon": "black_soil",
+                "en": "Black soil",
+                "kn": "ಕಪ್ಪು ಮಣ್ಣು"
+              },
+              {
+                "icon": "sandy_soil",
+                "en": "Sandy soil",
+                "kn": "ಮರಳು ಮಣ್ಣು",
+                "note": "water runs through"
+              },
+              {
+                "icon": "clay_soil",
+                "en": "Clay soil",
+                "kn": "ಜೇಡಿಮಣ್ಣು",
+                "note": "sticky, holds water"
+              }
+            ]
+          },
+          "words": [
+            "soil"
+          ]
+        },
+        {
+          "text": "Earthworms and other tiny living things live in the soil and keep it loose.",
+          "kn": "ಎರೆಹುಳುಗಳು ಮತ್ತು ಇತರ ಸಣ್ಣ ಜೀವಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ವಾಸಿಸಿ ಅದನ್ನು ಸಡಿಲವಾಗಿಡುತ್ತವೆ.",
+          "words": [
+            "soil",
+            "earthworm"
+          ]
+        },
+        {
+          "text": "Between the bits there are small spaces. They hold water and air.",
+          "kn": "ಕಣಗಳ ನಡುವೆ ಸಣ್ಣ ಖಾಲಿ ಜಾಗಗಳಿವೆ. ಅವುಗಳಲ್ಲಿ ನೀರು ಮತ್ತು ಗಾಳಿ ಇರುತ್ತದೆ.",
+          "words": [
+            "water",
+            "air",
+            "soil"
+          ]
+        },
+        {
+          "text": "Soil has minerals too. The roots take in water and minerals from the soil.",
+          "kn": "ಮಣ್ಣಿನಲ್ಲಿ ಖನಿಜಗಳೂ ಇವೆ. ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+          "words": [
+            "water",
+            "minerals",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "kind": "chapter",
+      "heading": "Water",
+      "kn_heading": "ನೀರು",
+      "scene": "water",
+      "concept": {
+        "term": "Water",
+        "kn": "ನೀರು",
+        "sign": "water"
+      },
+      "emphasis": [
+        "water",
+        "root hairs",
+        "stem",
+        "veins",
+        "water vapour"
+      ],
+      "key_terms": [
+        "water",
+        "leaf"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "Rain falls and soaks into the soil.",
+          "kn": "ಮಳೆ ಬಿದ್ದು ಮಣ್ಣಿನೊಳಗೆ ಇಂಗುತ್ತದೆ.",
+          "words": [
+            "water",
+            "rain",
+            "soil"
+          ]
+        },
+        {
+          "text": "Plants get water from rain, from rivers and wells, and when we water them.",
+          "kn": "ಸಸ್ಯಗಳಿಗೆ ಮಳೆಯಿಂದ, ನದಿ ಮತ್ತು ಬಾವಿಗಳಿಂದ, ಮತ್ತು ನಾವು ನೀರು ಹಾಕಿದಾಗ ನೀರು ಸಿಗುತ್ತದೆ.",
+          "gallery": {
+            "title": "Where plants get water",
+            "kn_title": "ಸಸ್ಯಗಳಿಗೆ ನೀರು ಎಲ್ಲಿಂದ",
+            "cards": [
+              {
+                "icon": "rain",
+                "en": "Rain",
+                "kn": "ಮಳೆ"
+              },
+              {
+                "icon": "river",
+                "en": "River",
+                "kn": "ನದಿ"
+              },
+              {
+                "icon": "well",
+                "en": "Well",
+                "kn": "ಬಾವಿ"
+              },
+              {
+                "icon": "watering_can",
+                "en": "We water them",
+                "kn": "ನಾವು ನೀರು ಹಾಕುತ್ತೇವೆ"
+              }
+            ]
+          },
+          "words": [
+            "water",
+            "rain"
+          ]
+        },
+        {
+          "text": "Tiny root hairs on the roots take in the water.",
+          "kn": "ಬೇರುಗಳ ಮೇಲಿನ ಸಣ್ಣ ಬೇರುಕೂದಲುಗಳು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+          "words": [
+            "water",
+            "root_hairs",
+            "root"
+          ]
+        },
+        {
+          "text": "The water moves up the stem through thin tubes, like a drink going up a straw.",
+          "kn": "ನೀರು ಕಾಂಡದೊಳಗಿನ ತೆಳುವಾದ ಕೊಳವೆಗಳ ಮೂಲಕ, ಸ್ಟ್ರಾದಲ್ಲಿ ಪಾನೀಯ ಮೇಲೇರುವಂತೆ, ಮೇಲಕ್ಕೆ ಸಾಗುತ್ತದೆ.",
+          "words": [
+            "water",
+            "stem"
+          ]
+        },
+        {
+          "text": "The tubes spread into each leaf as veins, and the water reaches the leaf.",
+          "kn": "ಈ ಕೊಳವೆಗಳು ಪ್ರತಿ ಎಲೆಯೊಳಗೆ ನರಗಳಾಗಿ ಹರಡುತ್ತವೆ, ಹೀಗೆ ನೀರು ಎಲೆಯನ್ನು ತಲುಪುತ್ತದೆ.",
+          "words": [
+            "water",
+            "veins",
+            "leaf"
+          ]
+        },
+        {
+          "text": "The leaf uses some water to make food. Extra water goes into the air as water vapour.",
+          "kn": "ಎಲೆ ಸ್ವಲ್ಪ ನೀರನ್ನು ಆಹಾರ ತಯಾರಿಸಲು ಬಳಸುತ್ತದೆ. ಹೆಚ್ಚಿನ ನೀರು ನೀರಾವಿಯಾಗಿ ಗಾಳಿಗೆ ಹೋಗುತ್ತದೆ.",
+          "words": [
+            "water",
+            "water_vapour",
+            "food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leaf",
+      "kind": "chapter",
+      "heading": "The leaf",
+      "kn_heading": "ಎಲೆ",
+      "scene": "leaf",
+      "concept": {
+        "term": "Leaf",
+        "kn": "ಎಲೆ",
+        "sign": "leaf"
+      },
+      "emphasis": [
+        "leaf",
+        "veins",
+        "stomata",
+        "cells",
+        "chlorophyll"
+      ],
+      "key_terms": [
+        "leaf",
+        "stomata"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "This is a leaf. It is thin, flat and wide, so it can catch a lot of sunlight.",
+          "kn": "ಇದು ಒಂದು ಎಲೆ. ಅದು ತೆಳುವಾಗಿ, ಚಪ್ಪಟೆಯಾಗಿ, ಅಗಲವಾಗಿದೆ. ಹಾಗಾಗಿ ಅದು ಹೆಚ್ಚು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹಿಡಿಯಬಲ್ಲದು.",
+          "words": [
+            "leaf",
+            "light"
+          ]
+        },
+        {
+          "text": "Leaves have many shapes and sizes, but they are all leaves.",
+          "kn": "ಎಲೆಗಳಲ್ಲಿ ಹಲವು ಆಕಾರ ಮತ್ತು ಗಾತ್ರಗಳಿವೆ, ಆದರೆ ಅವೆಲ್ಲವೂ ಎಲೆಗಳೇ.",
+          "gallery": {
+            "title": "All of these are leaves",
+            "kn_title": "ಇವೆಲ್ಲವೂ ಎಲೆಗಳು",
+            "cards": [
+              {
+                "icon": "mango_leaf",
+                "en": "Mango leaf",
+                "kn": "ಮಾವಿನ ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "banana_leaf",
+                "en": "Banana leaf",
+                "kn": "ಬಾಳೆ ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "neem_leaf",
+                "en": "Neem leaf",
+                "kn": "ಬೇವಿನ ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "lotus_leaf",
+                "en": "Lotus leaf",
+                "kn": "ತಾವರೆ ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "coconut_leaf",
+                "en": "Coconut leaf",
+                "kn": "ತೆಂಗಿನ ಗರಿ",
+                "mark": "yes"
+              },
+              {
+                "icon": "grass",
+                "en": "Grass blade",
+                "kn": "ಹುಲ್ಲಿನ ಎಲೆ",
+                "mark": "yes"
+              }
+            ]
+          },
+          "words": [
+            "leaf"
+          ]
+        },
+        {
+          "text": "The lines on the leaf are veins. They bring water in and take food out.",
+          "kn": "ಎಲೆಯ ಮೇಲಿನ ಗೆರೆಗಳು ನರಗಳು. ಅವು ನೀರನ್ನು ಒಳಗೆ ತರುತ್ತವೆ ಮತ್ತು ಆಹಾರವನ್ನು ಹೊರಗೆ ಒಯ್ಯುತ್ತವೆ.",
+          "words": [
+            "leaf",
+            "veins",
+            "water",
+            "food"
+          ]
+        },
+        {
+          "text": "Is it a leaf? A leaf is flat and green and grows from the stem. A flower, a stem and a fruit are not leaves.",
+          "kn": "ಇದು ಎಲೆಯೇ? ಎಲೆ ಚಪ್ಪಟೆಯಾಗಿ ಹಸಿರಾಗಿರುತ್ತದೆ, ಕಾಂಡದಿಂದ ಬೆಳೆಯುತ್ತದೆ. ಹೂವು, ಕಾಂಡ ಮತ್ತು ಹಣ್ಣು ಎಲೆಗಳಲ್ಲ.",
+          "gallery": {
+            "title": "Is it a leaf?",
+            "kn_title": "ಇದು ಎಲೆಯೇ?",
+            "cards": [
+              {
+                "icon": "mango_leaf",
+                "en": "Leaf",
+                "kn": "ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "flower",
+                "en": "Flower",
+                "kn": "ಹೂವು",
+                "mark": "no"
+              },
+              {
+                "icon": "stem_piece",
+                "en": "Stem",
+                "kn": "ಕಾಂಡ",
+                "mark": "no"
+              },
+              {
+                "icon": "fruit",
+                "en": "Fruit",
+                "kn": "ಹಣ್ಣು",
+                "mark": "no"
+              }
+            ]
+          },
+          "words": [
+            "leaf",
+            "flower",
+            "stem"
+          ]
+        },
+        {
+          "text": "Under the leaf there are tiny holes called stomata. Air goes in and out through them.",
+          "kn": "ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಪತ್ರರಂಧ್ರಗಳು ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳಿವೆ. ಅವುಗಳ ಮೂಲಕ ಗಾಳಿ ಒಳಗೆ ಹೋಗುತ್ತದೆ ಮತ್ತು ಹೊರಗೆ ಬರುತ್ತದೆ.",
+          "words": [
+            "stomata",
+            "air",
+            "leaf"
+          ]
+        },
+        {
+          "text": "A leaf is made of tiny cells. They are so small that we need a microscope to see them.",
+          "kn": "ಎಲೆ ಸಣ್ಣ ಸಣ್ಣ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ಅವು ಎಷ್ಟು ಚಿಕ್ಕವೆಂದರೆ ಅವುಗಳನ್ನು ನೋಡಲು ಸೂಕ್ಷ್ಮದರ್ಶಕ ಬೇಕು.",
+          "words": [
+            "leaf",
+            "cell",
+            "microscope"
+          ]
+        },
+        {
+          "text": "The cells are full of green chlorophyll. This is where food is made.",
+          "kn": "ಈ ಜೀವಕೋಶಗಳಲ್ಲಿ ಹಸಿರು ಪತ್ರಹರಿತ್ತು ತುಂಬಿದೆ. ಆಹಾರ ತಯಾರಾಗುವುದು ಇಲ್ಲಿಯೇ.",
+          "words": [
+            "food",
+            "chlorophyll",
+            "cell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chlorophyll",
+      "kind": "chapter",
+      "heading": "Chlorophyll",
+      "kn_heading": "ಪತ್ರಹರಿತ್ತು",
+      "scene": "chlorophyll",
+      "concept": {
+        "term": "Chlorophyll",
+        "kn": "ಪತ್ರಹರಿತ್ತು",
+        "sign": "chlorophyll",
+        "why": "The ISLRTC 'Chlorophyll' video is a 23-second explanation; the tracker loses the signer's right hand for 6 frames in a row (limit 3), so it is not put on the avatar. The 'Chlorophyll (Academic)' video fails too (7 frames)."
+      },
+      "emphasis": [
+        "chloroplasts",
+        "chlorophyll",
+        "energy",
+        "green"
+      ],
+      "key_terms": [
+        "chlorophyll",
+        "leaf",
+        "sun"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "Let us look inside one leaf cell with a microscope.",
+          "kn": "ಸೂಕ್ಷ್ಮದರ್ಶಕದಿಂದ ಒಂದು ಎಲೆಯ ಜೀವಕೋಶದ ಒಳಗೆ ನೋಡೋಣ.",
+          "words": [
+            "leaf",
+            "cell",
+            "microscope"
+          ]
+        },
+        {
+          "text": "The small green parts are called chloroplasts.",
+          "kn": "ಈ ಸಣ್ಣ ಹಸಿರು ಭಾಗಗಳನ್ನು ಹರಿತ್ತಿಲುಗಳು ಅಥವಾ ಕ್ಲೋರೋಪ್ಲಾಸ್ಟ್‌ಗಳು ಎನ್ನುತ್ತಾರೆ.",
+          "words": [
+            "chloroplast"
+          ]
+        },
+        {
+          "text": "Chloroplasts contain chlorophyll, a green colouring.",
+          "kn": "ಹರಿತ್ತಿಲುಗಳಲ್ಲಿ ಪತ್ರಹರಿತ್ತು ಎಂಬ ಹಸಿರು ಬಣ್ಣದ ವಸ್ತು ಇದೆ.",
+          "words": [
+            "chlorophyll",
+            "chloroplast"
+          ]
+        },
+        {
+          "text": "Chlorophyll catches the energy of sunlight, like a solar panel.",
+          "kn": "ಸೌರ ಫಲಕದಂತೆ, ಪತ್ರಹರಿತ್ತು ಸೂರ್ಯನ ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನು ಹಿಡಿಯುತ್ತದೆ.",
+          "words": [
+            "energy",
+            "chlorophyll",
+            "sun"
+          ]
+        },
+        {
+          "text": "Sunlight has many colours. Chlorophyll takes in red and blue light and gives back green light. That is why leaves look green.",
+          "kn": "ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ಹಲವು ಬಣ್ಣಗಳಿವೆ. ಪತ್ರಹರಿತ್ತು ಕೆಂಪು ಮತ್ತು ನೀಲಿ ಬೆಳಕನ್ನು ಹೀರಿಕೊಂಡು ಹಸಿರು ಬೆಳಕನ್ನು ಹಿಂದಕ್ಕೆ ಕಳುಹಿಸುತ್ತದೆ. ಅದಕ್ಕೇ ಎಲೆಗಳು ಹಸಿರಾಗಿ ಕಾಣುತ್ತವೆ.",
+          "words": [
+            "sun",
+            "chlorophyll",
+            "light"
+          ]
+        },
+        {
+          "text": "Green parts of a plant have chlorophyll: leaves, green stems and raw green fruit. Roots and most flowers do not.",
+          "kn": "ಸಸ್ಯದ ಹಸಿರು ಭಾಗಗಳಲ್ಲಿ ಪತ್ರಹರಿತ್ತು ಇದೆ: ಎಲೆಗಳು, ಹಸಿರು ಕಾಂಡಗಳು ಮತ್ತು ಹಸಿ ಕಾಯಿಗಳು. ಬೇರುಗಳಲ್ಲಿ ಮತ್ತು ಹೆಚ್ಚಿನ ಹೂವುಗಳಲ್ಲಿ ಇಲ್ಲ.",
+          "gallery": {
+            "title": "Where is chlorophyll?",
+            "kn_title": "ಪತ್ರಹರಿತ್ತು ಎಲ್ಲಿದೆ?",
+            "cards": [
+              {
+                "icon": "mango_leaf",
+                "en": "Leaf",
+                "kn": "ಎಲೆ",
+                "mark": "yes"
+              },
+              {
+                "icon": "stem_piece",
+                "en": "Green stem",
+                "kn": "ಹಸಿರು ಕಾಂಡ",
+                "mark": "yes"
+              },
+              {
+                "icon": "raw_mango",
+                "en": "Raw mango",
+                "kn": "ಮಾವಿನ ಕಾಯಿ",
+                "mark": "yes"
+              },
+              {
+                "icon": "root_piece",
+                "en": "Root",
+                "kn": "ಬೇರು",
+                "mark": "no"
+              },
+              {
+                "icon": "flower",
+                "en": "Flower petals",
+                "kn": "ಹೂವಿನ ದಳ",
+                "mark": "no"
+              }
+            ]
+          },
+          "words": [
+            "leaf",
+            "chlorophyll",
+            "stem",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carbon_dioxide",
+      "kind": "chapter",
+      "heading": "Carbon dioxide",
+      "kn_heading": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "scene": "co2",
+      "concept": {
+        "term": "Carbon dioxide",
+        "kn": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "sign": "carbon_dioxide_sign_2"
+      },
+      "emphasis": [
+        "carbon dioxide",
+        "gases",
+        "stomata",
+        "guard cells"
+      ],
+      "key_terms": [
+        "carbon_dioxide_sign_2",
+        "breathe",
+        "stomata"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "Air is a mix of gases. We cannot see them.",
+          "kn": "ಗಾಳಿ ಅನೇಕ ಅನಿಲಗಳ ಮಿಶ್ರಣ. ಅವುಗಳನ್ನು ನಾವು ನೋಡಲಾರೆವು.",
+          "words": [
+            "air",
+            "gas"
+          ]
+        },
+        {
+          "text": "One of these gases is carbon dioxide. People and animals breathe it out.",
+          "kn": "ಅವುಗಳಲ್ಲಿ ಒಂದು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್. ಮನುಷ್ಯರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಅದನ್ನು ಉಸಿರಿನೊಂದಿಗೆ ಹೊರಗೆ ಬಿಡುತ್ತಾರೆ.",
+          "words": [
+            "carbon_dioxide",
+            "breathe",
+            "gas"
+          ]
+        },
+        {
+          "text": "Carbon dioxide comes from our breath, from animals' breath, from burning wood and from vehicle smoke.",
+          "kn": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ನಮ್ಮ ಉಸಿರಿನಿಂದ, ಪ್ರಾಣಿಗಳ ಉಸಿರಿನಿಂದ, ಕಟ್ಟಿಗೆ ಉರಿಸುವುದರಿಂದ ಮತ್ತು ವಾಹನಗಳ ಹೊಗೆಯಿಂದ ಬರುತ್ತದೆ.",
+          "gallery": {
+            "title": "Where carbon dioxide comes from",
+            "kn_title": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ",
+            "cards": [
+              {
+                "icon": "person_breath",
+                "en": "Our breath",
+                "kn": "ನಮ್ಮ ಉಸಿರು"
+              },
+              {
+                "icon": "cow",
+                "en": "Animals' breath",
+                "kn": "ಪ್ರಾಣಿಗಳ ಉಸಿರು"
+              },
+              {
+                "icon": "fire",
+                "en": "Burning wood",
+                "kn": "ಕಟ್ಟಿಗೆ ಉರಿಯುವುದು"
+              },
+              {
+                "icon": "vehicle_smoke",
+                "en": "Vehicle smoke",
+                "kn": "ವಾಹನದ ಹೊಗೆ"
+              }
+            ]
+          },
+          "words": [
+            "carbon_dioxide",
+            "breathe"
+          ]
+        },
+        {
+          "text": "Each tiny bit of carbon dioxide is one carbon joined to two oxygens. We write it C O 2.",
+          "kn": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನ ಪ್ರತಿಯೊಂದು ಸಣ್ಣ ಕಣದಲ್ಲಿ ಒಂದು ಇಂಗಾಲ ಎರಡು ಆಮ್ಲಜನಕಗಳೊಂದಿಗೆ ಸೇರಿರುತ್ತದೆ. ಅದನ್ನು ಸಿ ಓ ಟು ಎಂದು ಬರೆಯುತ್ತೇವೆ.",
+          "words": [
+            "carbon_dioxide",
+            "oxygen"
+          ]
+        },
+        {
+          "text": "Carbon dioxide goes into the leaf through the stomata, the tiny holes under the leaf.",
+          "kn": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಎಲೆಯ ಕೆಳಗಿನ ಸಣ್ಣ ರಂಧ್ರಗಳಾದ ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕ ಎಲೆಯೊಳಗೆ ಹೋಗುತ್ತದೆ.",
+          "words": [
+            "carbon_dioxide",
+            "stomata",
+            "leaf"
+          ]
+        },
+        {
+          "text": "Two guard cells open each stoma in the day, and close it at night or when it is very dry.",
+          "kn": "ಎರಡು ಕಾವಲು ಜೀವಕೋಶಗಳು ಹಗಲಿನಲ್ಲಿ ಪತ್ರರಂಧ್ರವನ್ನು ತೆರೆಯುತ್ತವೆ, ರಾತ್ರಿ ಅಥವಾ ತುಂಬಾ ಒಣ ಹವೆಯಲ್ಲಿ ಮುಚ್ಚುತ್ತವೆ.",
+          "words": [
+            "guard_cells",
+            "stomata"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "making_food",
+      "kind": "chapter",
+      "heading": "Making food",
+      "kn_heading": "ಆಹಾರ ತಯಾರಿಕೆ",
+      "scene": "food",
+      "concept": {
+        "term": "Sugar",
+        "kn": "ಸಕ್ಕರೆ",
+        "sign": "sugar"
+      },
+      "emphasis": [
+        "sugar",
+        "glucose",
+        "hydrogen",
+        "oxygen",
+        "food"
+      ],
+      "key_terms": [
+        "sugar",
+        "food",
+        "make"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter",
+        "candidate": "photosynthesis_process",
+        "note": "ISLRTC's 'Photosynthesis Process' explanation passes tracking QC but fails the avatar contact check (2 of 5 fingertip contacts missing; limit 25%). It is not played until that is fixed."
+      },
+      "beats": [
+        {
+          "text": "Now the leaf has everything it needs: light energy, water and carbon dioxide.",
+          "kn": "ಈಗ ಎಲೆಗೆ ಬೇಕಾದ ಎಲ್ಲವೂ ಇದೆ: ಬೆಳಕಿನ ಶಕ್ತಿ, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್.",
+          "words": [
+            "energy",
+            "light",
+            "water",
+            "carbon_dioxide"
+          ]
+        },
+        {
+          "text": "In the chloroplasts, the light's energy splits water into hydrogen and oxygen.",
+          "kn": "ಹರಿತ್ತಿಲುಗಳಲ್ಲಿ ಬೆಳಕಿನ ಶಕ್ತಿ ನೀರನ್ನು ಜಲಜನಕ ಮತ್ತು ಆಮ್ಲಜನಕವಾಗಿ ಒಡೆಯುತ್ತದೆ.",
+          "words": [
+            "water",
+            "energy",
+            "hydrogen",
+            "oxygen",
+            "chloroplast"
+          ]
+        },
+        {
+          "text": "The hydrogen joins with carbon dioxide to make a sugar called glucose.",
+          "kn": "ಜಲಜನಕವು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನೊಂದಿಗೆ ಸೇರಿ ಗ್ಲೂಕೋಸ್ ಎಂಬ ಸಕ್ಕರೆ ಆಗುತ್ತದೆ.",
+          "words": [
+            "sugar",
+            "hydrogen",
+            "carbon_dioxide",
+            "glucose"
+          ]
+        },
+        {
+          "text": "Sugar is the plant's food. The veins carry it to every part of the plant.",
+          "kn": "ಸಕ್ಕರೆಯೇ ಸಸ್ಯದ ಆಹಾರ. ನರಗಳು ಅದನ್ನು ಸಸ್ಯದ ಪ್ರತಿಯೊಂದು ಭಾಗಕ್ಕೂ ಒಯ್ಯುತ್ತವೆ.",
+          "words": [
+            "sugar",
+            "food",
+            "veins"
+          ]
+        },
+        {
+          "text": "In short: light, water and carbon dioxide make sugar and oxygen.",
+          "kn": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ: ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಸಕ್ಕರೆ ಮತ್ತು ಆಮ್ಲಜನಕ ತಯಾರಾಗುತ್ತವೆ.",
+          "words": [
+            "photosynthesis",
+            "sugar",
+            "oxygen",
+            "light",
+            "water",
+            "carbon_dioxide"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxygen",
+      "kind": "chapter",
+      "heading": "Oxygen",
+      "kn_heading": "ಆಮ್ಲಜನಕ",
+      "scene": "oxygen",
+      "concept": {
+        "term": "Oxygen",
+        "kn": "ಆಮ್ಲಜನಕ",
+        "sign": "oxygen_sign_2"
+      },
+      "emphasis": [
+        "oxygen",
+        "stomata",
+        "breathe",
+        "carbon dioxide"
+      ],
+      "key_terms": [
+        "oxygen_sign_2",
+        "breathe",
+        "carbon_dioxide_sign_2"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "When water is split, oxygen is left over.",
+          "kn": "ನೀರು ಒಡೆದಾಗ ಆಮ್ಲಜನಕ ಉಳಿಯುತ್ತದೆ.",
+          "words": [
+            "oxygen",
+            "water"
+          ]
+        },
+        {
+          "text": "The leaf lets the oxygen out through its stomata.",
+          "kn": "ಎಲೆ ತನ್ನ ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕ ಆಮ್ಲಜನಕವನ್ನು ಹೊರಗೆ ಬಿಡುತ್ತದೆ.",
+          "words": [
+            "oxygen",
+            "stomata",
+            "leaf"
+          ]
+        },
+        {
+          "text": "The oxygen goes into the air. People and animals breathe it in to live.",
+          "kn": "ಆಮ್ಲಜನಕ ಗಾಳಿಗೆ ಸೇರುತ್ತದೆ. ಮನುಷ್ಯರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಬದುಕಲು ಅದನ್ನು ಉಸಿರಾಡುತ್ತಾರೆ.",
+          "words": [
+            "oxygen",
+            "breathe",
+            "air"
+          ]
+        },
+        {
+          "text": "All living things need oxygen: people, animals, birds, fish in the water, and plants too.",
+          "kn": "ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೂ ಆಮ್ಲಜನಕ ಬೇಕು: ಮನುಷ್ಯರು, ಪ್ರಾಣಿಗಳು, ಪಕ್ಷಿಗಳು, ನೀರಿನಲ್ಲಿರುವ ಮೀನುಗಳು, ಮತ್ತು ಸಸ್ಯಗಳಿಗೂ ಕೂಡ.",
+          "gallery": {
+            "title": "Who needs oxygen?",
+            "kn_title": "ಆಮ್ಲಜನಕ ಯಾರಿಗೆ ಬೇಕು?",
+            "cards": [
+              {
+                "icon": "person_breath",
+                "en": "People",
+                "kn": "ಮನುಷ್ಯರು",
+                "mark": "yes"
+              },
+              {
+                "icon": "cow",
+                "en": "Animals",
+                "kn": "ಪ್ರಾಣಿಗಳು",
+                "mark": "yes"
+              },
+              {
+                "icon": "bird",
+                "en": "Birds",
+                "kn": "ಪಕ್ಷಿಗಳು",
+                "mark": "yes"
+              },
+              {
+                "icon": "fish",
+                "en": "Fish",
+                "kn": "ಮೀನುಗಳು",
+                "mark": "yes"
+              },
+              {
+                "icon": "plant_o2",
+                "en": "Plants too",
+                "kn": "ಸಸ್ಯಗಳೂ",
+                "mark": "yes"
+              }
+            ]
+          },
+          "words": [
+            "oxygen",
+            "living_things",
+            "breathe"
+          ]
+        },
+        {
+          "text": "We breathe out carbon dioxide, and plants take it in. Plants and animals help each other.",
+          "kn": "ನಾವು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಗೆ ಬಿಡುತ್ತೇವೆ, ಸಸ್ಯಗಳು ಅದನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ. ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಒಂದಕ್ಕೊಂದು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+          "words": [
+            "breathe",
+            "carbon_dioxide",
+            "plant"
+          ]
+        },
+        {
+          "text": "The oxygen we breathe is made by plants on land and by tiny plants in the sea.",
+          "kn": "ನಾವು ಉಸಿರಾಡುವ ಆಮ್ಲಜನಕವನ್ನು ನೆಲದ ಮೇಲಿನ ಸಸ್ಯಗಳು ಮತ್ತು ಸಮುದ್ರದ ಸೂಕ್ಷ್ಮ ಸಸ್ಯಗಳು ತಯಾರಿಸುತ್ತವೆ.",
+          "words": [
+            "oxygen",
+            "plant",
+            "algae"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "growing",
+      "kind": "chapter",
+      "heading": "Growing",
+      "kn_heading": "ಬೆಳವಣಿಗೆ",
+      "scene": "growth",
+      "concept": {
+        "term": "Grow (plants)",
+        "kn": "ಬೆಳೆ",
+        "sign": "grow_plants"
+      },
+      "emphasis": [
+        "energy",
+        "grows",
+        "starch",
+        "food"
+      ],
+      "key_terms": [
+        "grow_plants",
+        "energy",
+        "food"
+      ],
+      "isl": {
+        "status": "awaiting_interpreter"
+      },
+      "beats": [
+        {
+          "text": "The plant uses some of its sugar for energy, to stay alive.",
+          "kn": "ಸಸ್ಯವು ತನ್ನ ಸ್ವಲ್ಪ ಸಕ್ಕರೆಯನ್ನು ಬದುಕಿರಲು ಬೇಕಾದ ಶಕ್ತಿಗಾಗಿ ಬಳಸುತ್ತದೆ.",
+          "words": [
+            "energy",
+            "sugar"
+          ]
+        },
+        {
+          "text": "It uses some sugar to build new leaves, stems and roots. The plant grows.",
+          "kn": "ಸ್ವಲ್ಪ ಸಕ್ಕರೆಯಿಂದ ಹೊಸ ಎಲೆ, ಕಾಂಡ ಮತ್ತು ಬೇರುಗಳನ್ನು ಕಟ್ಟುತ್ತದೆ. ಹೀಗೆ ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ.",
+          "words": [
+            "grow",
+            "sugar",
+            "leaf",
+            "stem",
+            "root"
+          ]
+        },
+        {
+          "text": "Extra sugar is stored as starch, in potatoes, rice grains and bananas.",
+          "kn": "ಹೆಚ್ಚಾದ ಸಕ್ಕರೆ ಪಿಷ್ಟವಾಗಿ ಆಲೂಗಡ್ಡೆ, ಅಕ್ಕಿ ಕಾಳು ಮತ್ತು ಬಾಳೆಹಣ್ಣಿನಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.",
+          "words": [
+            "sugar",
+            "starch"
+          ]
+        },
+        {
+          "text": "We eat food that plants have stored: potato, carrot, rice, sugarcane, mango and peanut.",
+          "kn": "ಸಸ್ಯಗಳು ಸಂಗ್ರಹಿಸಿದ ಆಹಾರವನ್ನು ನಾವು ತಿನ್ನುತ್ತೇವೆ: ಆಲೂಗಡ್ಡೆ, ಕ್ಯಾರೆಟ್, ಅಕ್ಕಿ, ಕಬ್ಬು, ಮಾವಿನಹಣ್ಣು ಮತ್ತು ಕಡಲೆಕಾಯಿ.",
+          "gallery": {
+            "title": "Food that plants store",
+            "kn_title": "ಸಸ್ಯಗಳು ಸಂಗ್ರಹಿಸುವ ಆಹಾರ",
+            "cards": [
+              {
+                "icon": "potato",
+                "en": "Potato",
+                "kn": "ಆಲೂಗಡ್ಡೆ",
+                "note": "stored in a stem"
+              },
+              {
+                "icon": "carrot",
+                "en": "Carrot",
+                "kn": "ಕ್ಯಾರೆಟ್",
+                "note": "stored in a root"
+              },
+              {
+                "icon": "rice",
+                "en": "Rice",
+                "kn": "ಅಕ್ಕಿ",
+                "note": "stored in seeds"
+              },
+              {
+                "icon": "sugarcane",
+                "en": "Sugarcane",
+                "kn": "ಕಬ್ಬು",
+                "note": "sugar in the stem"
+              },
+              {
+                "icon": "mango",
+                "en": "Mango",
+                "kn": "ಮಾವಿನಹಣ್ಣು",
+                "note": "stored in a fruit"
+              },
+              {
+                "icon": "peanut",
+                "en": "Peanut",
+                "kn": "ಕಡಲೆಕಾಯಿ",
+                "note": "stored in seeds"
+              }
+            ]
+          },
+          "words": [
+            "food",
+            "starch"
+          ]
+        },
+        {
+          "text": "When we eat plants, we get this stored food and energy.",
+          "kn": "ನಾವು ಸಸ್ಯಗಳನ್ನು ತಿಂದಾಗ ಈ ಸಂಗ್ರಹಿತ ಆಹಾರ ಮತ್ತು ಶಕ್ತಿ ನಮಗೆ ಸಿಗುತ್ತದೆ.",
+          "words": [
+            "food",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "key_terms",
+      "kind": "key_terms",
+      "heading": "Key words in ISL",
+      "scene": "terms",
+      "caption": "Every word in this lesson, with its meaning and picture. Tap ✋ to see the ISL sign, one word at a time.",
+      "terms": [
+        {
+          "term": "Photosynthesis",
+          "sign": "photosynthesis"
+        },
+        {
+          "term": "Sun",
+          "sign": "sun"
+        },
+        {
+          "term": "Soil",
+          "sign": "soil"
+        },
+        {
+          "term": "Water",
+          "sign": "water"
+        },
+        {
+          "term": "Leaf",
+          "sign": "leaf"
+        },
+        {
+          "term": "Carbon dioxide",
+          "sign": "carbon_dioxide_sign_2"
+        },
+        {
+          "term": "Oxygen",
+          "sign": "oxygen_sign_2"
+        },
+        {
+          "term": "Sugar",
+          "sign": "sugar"
+        },
+        {
+          "term": "Food",
+          "sign": "food"
+        },
+        {
+          "term": "Make",
+          "sign": "make"
+        },
+        {
+          "term": "Energy",
+          "sign": "energy"
+        },
+        {
+          "term": "Grow (plants)",
+          "sign": "grow_plants"
+        },
+        {
+          "term": "Breathe",
+          "sign": "breathe"
+        },
+        {
+          "term": "Chlorophyll",
+          "sign": "chlorophyll"
+        },
+        {
+          "term": "Stomata",
+          "sign": "stomata"
+        },
+        {
+          "term": "Plant",
+          "sign": null,
+          "why": "No ISLRTC sign for 'plant' on its own in the dictionary folders."
+        },
+        {
+          "term": "Air",
+          "sign": null,
+          "why": "The ISLRTC recording loses the signing hand for 7 frames in a row, so it fails the quality check."
+        },
+        {
+          "term": "Roots",
+          "sign": null,
+          "why": "No ISLRTC sign for 'root' on its own in the dictionary folders."
+        }
+      ],
+      "kn": {
+        "caption": "ಈ ಪಾಠದ ಎಲ್ಲಾ ಪದಗಳು, ಅರ್ಥ ಮತ್ತು ಚಿತ್ರದೊಂದಿಗೆ. ISL ಸಂಜ್ಞೆ ನೋಡಲು ✋ ಒತ್ತಿ, ಒಂದು ಬಾರಿಗೆ ಒಂದು ಪದ."
+      },
+      "kn_heading": "ISL ಪ್ರಮುಖ ಪದಗಳು",
+      "words": [
+        "photosynthesis",
+        "living_things",
+        "food",
+        "make",
+        "grow",
+        "plant",
+        "tree",
+        "root",
+        "stem",
+        "leaf",
+        "flower",
+        "seed",
+        "sun",
+        "light",
+        "heat",
+        "energy",
+        "soil",
+        "humus",
+        "earthworm",
+        "minerals",
+        "water",
+        "rain",
+        "root_hairs",
+        "veins",
+        "water_vapour",
+        "stomata",
+        "cell",
+        "microscope",
+        "chlorophyll",
+        "chloroplast",
+        "air",
+        "gas",
+        "carbon_dioxide",
+        "oxygen",
+        "breathe",
+        "guard_cells",
+        "hydrogen",
+        "sugar",
+        "glucose",
+        "starch",
+        "algae"
+      ]
+    },
+    {
+      "id": "recap",
+      "kind": "recap",
+      "heading": "Recap",
+      "scene": "recap",
+      "caption": "Light + water + carbon dioxide → sugar + oxygen. The plant uses the sugar to live and grow.",
+      "points": [
+        "The Sun gives light energy; the leaf's chlorophyll catches it.",
+        "Roots take in water and minerals from the soil.",
+        "Carbon dioxide from the air goes in through the stomata.",
+        "In the chloroplasts, light + water + carbon dioxide make sugar.",
+        "Oxygen goes out into the air for us to breathe.",
+        "The plant uses sugar to live and grow, and stores the rest as starch."
+      ],
+      "emphasis": [
+        "sugar",
+        "oxygen",
+        "grow"
+      ],
+      "isl": {
+        "status": "available",
+        "sign": "photosynthesis",
+        "type": "recorded_explanation",
+        "author": "ISLRTC dictionary signer (Indian Sign Language Research and Training Centre)"
+      },
+      "kn": {
+        "caption": "ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಸಕ್ಕರೆ ಮತ್ತು ಆಮ್ಲಜನಕ ತಯಾರಾಗುತ್ತವೆ. ಸಸ್ಯವು ಬದುಕಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಕ್ಕರೆಯನ್ನು ಬಳಸುತ್ತದೆ.",
+        "points": [
+          "ಸೂರ್ಯ ಬೆಳಕಿನ ಶಕ್ತಿ ಕೊಡುತ್ತಾನೆ; ಎಲೆಯ ಪತ್ರಹರಿತ್ತು ಅದನ್ನು ಹಿಡಿಯುತ್ತದೆ.",
+          "ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+          "ಗಾಳಿಯ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕ ಒಳಗೆ ಹೋಗುತ್ತದೆ.",
+          "ಹರಿತ್ತಿಲುಗಳಲ್ಲಿ ಬೆಳಕು, ನೀರು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಸಕ್ಕರೆ ತಯಾರಾಗುತ್ತದೆ.",
+          "ಆಮ್ಲಜನಕ ನಾವು ಉಸಿರಾಡಲು ಗಾಳಿಗೆ ಹೋಗುತ್ತದೆ.",
+          "ಸಸ್ಯ ಸಕ್ಕರೆಯನ್ನು ಬದುಕಲು ಮತ್ತು ಬೆಳೆಯಲು ಬಳಸುತ್ತದೆ, ಉಳಿದದ್ದನ್ನು ಪಿಷ್ಟವಾಗಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ."
+        ]
+      },
+      "kn_heading": "ಪುನರಾವರ್ತನೆ",
+      "words": [
+        "photosynthesis",
+        "sun",
+        "water",
+        "carbon_dioxide",
+        "sugar",
+        "oxygen",
+        "grow"
+      ]
+    }
+  ],
+  "narration": {
+    "language": "kn",
+    "language_name": "ಕನ್ನಡ (Kannada)",
+    "audio_dir": "audio/kn",
+    "translation_status": "DRAFT machine-assisted translation (11 Nov 2026); must be checked by a fluent Kannada speaker, ideally a science teacher, before students use it.",
+    "lip_sync": "Removed 13 Nov 2026 (school feedback): the lesson is for Deaf students, and mouth movements driven by a voice were not accurate and replaced the signer's own ISL mouth movements. The avatar keeps the ISLRTC signer's face. Voice narration is off by default and offered only for hearing teachers."
+  },
+  "structure": "One chapter per idea. Each chapter: (1) the idea's ISLRTC sign, shown once as a single word; (2) the ISL explanation, when a real recording exists; (3) numbered steps, each with its own animated picture, caption, Kannada caption and narration.",
+  "glossary": {
+    "photosynthesis": {
+      "en": "Photosynthesis",
+      "kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+      "meaning": "How a plant makes its food using light.",
+      "meaning_kn": "ಬೆಳಕನ್ನು ಬಳಸಿ ಸಸ್ಯ ಆಹಾರ ತಯಾರಿಸುವ ಕ್ರಿಯೆ.",
+      "sign": "photosynthesis",
+      "icon": "photosynthesis"
+    },
+    "living_things": {
+      "en": "Living things",
+      "kn": "ಜೀವಿಗಳು",
+      "meaning": "People, animals and plants: they eat, breathe and grow.",
+      "meaning_kn": "ಮನುಷ್ಯರು, ಪ್ರಾಣಿಗಳು, ಸಸ್ಯಗಳು: ತಿನ್ನುತ್ತವೆ, ಉಸಿರಾಡುತ್ತವೆ, ಬೆಳೆಯುತ್ತವೆ.",
+      "sign": null,
+      "icon": "living_things"
+    },
+    "food": {
+      "en": "Food",
+      "kn": "ಆಹಾರ",
+      "meaning": "What living things eat or make to get energy.",
+      "meaning_kn": "ಜೀವಿಗಳಿಗೆ ಶಕ್ತಿ ಕೊಡುವ ತಿನಿಸು.",
+      "sign": "food",
+      "icon": "food_plate"
+    },
+    "make": {
+      "en": "Make",
+      "kn": "ತಯಾರಿಸು",
+      "meaning": "To build or create something.",
+      "meaning_kn": "ಏನನ್ನಾದರೂ ಕಟ್ಟುವುದು ಅಥವಾ ರಚಿಸುವುದು.",
+      "sign": "make",
+      "icon": "make"
+    },
+    "grow": {
+      "en": "Grow",
+      "kn": "ಬೆಳೆ",
+      "meaning": "To get bigger.",
+      "meaning_kn": "ದೊಡ್ಡದಾಗುವುದು.",
+      "sign": "grow_plants",
+      "icon": "grow"
+    },
+    "plant": {
+      "en": "Plant",
+      "kn": "ಸಸ್ಯ",
+      "meaning": "A living thing with roots, stem and leaves that makes its own food.",
+      "meaning_kn": "ಬೇರು, ಕಾಂಡ, ಎಲೆಗಳಿರುವ, ತನ್ನ ಆಹಾರ ತಾನೇ ಮಾಡುವ ಜೀವಿ.",
+      "sign": null,
+      "icon": "tulsi"
+    },
+    "tree": {
+      "en": "Tree",
+      "kn": "ಮರ",
+      "meaning": "A big plant with a hard trunk.",
+      "meaning_kn": "ಗಟ್ಟಿ ಬುಡವಿರುವ ದೊಡ್ಡ ಸಸ್ಯ.",
+      "sign": null,
+      "icon": "tree"
+    },
+    "root": {
+      "en": "Root",
+      "kn": "ಬೇರು",
+      "meaning": "The part under the ground. It holds the plant and drinks water.",
+      "meaning_kn": "ನೆಲದೊಳಗಿನ ಭಾಗ. ಸಸ್ಯವನ್ನು ಹಿಡಿದು ನೀರು ಹೀರುತ್ತದೆ.",
+      "sign": null,
+      "icon": "root_piece"
+    },
+    "stem": {
+      "en": "Stem",
+      "kn": "ಕಾಂಡ",
+      "meaning": "The part that holds the plant up and carries water.",
+      "meaning_kn": "ಸಸ್ಯವನ್ನು ನಿಲ್ಲಿಸಿ ನೀರು ಸಾಗಿಸುವ ಭಾಗ.",
+      "sign": null,
+      "icon": "stem_piece"
+    },
+    "leaf": {
+      "en": "Leaf",
+      "kn": "ಎಲೆ",
+      "meaning": "The flat green part where food is made.",
+      "meaning_kn": "ಆಹಾರ ತಯಾರಾಗುವ ಚಪ್ಪಟೆ ಹಸಿರು ಭಾಗ.",
+      "sign": "leaf",
+      "icon": "mango_leaf"
+    },
+    "flower": {
+      "en": "Flower",
+      "kn": "ಹೂವು",
+      "meaning": "The part that makes seeds.",
+      "meaning_kn": "ಬೀಜಗಳನ್ನು ಮಾಡುವ ಭಾಗ.",
+      "sign": null,
+      "icon": "flower"
+    },
+    "seed": {
+      "en": "Seed",
+      "kn": "ಬೀಜ",
+      "meaning": "A new plant grows from it.",
+      "meaning_kn": "ಇದರಿಂದ ಹೊಸ ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ.",
+      "sign": null,
+      "icon": "seed"
+    },
+    "sun": {
+      "en": "Sun",
+      "kn": "ಸೂರ್ಯ",
+      "meaning": "The star that gives us light and heat.",
+      "meaning_kn": "ನಮಗೆ ಬೆಳಕು, ಶಾಖ ಕೊಡುವ ನಕ್ಷತ್ರ.",
+      "sign": "sun",
+      "icon": "sun"
+    },
+    "light": {
+      "en": "Light",
+      "kn": "ಬೆಳಕು",
+      "meaning": "What lets us see. Plants use it to make food.",
+      "meaning_kn": "ನೋಡಲು ಸಹಾಯ ಮಾಡುವುದು. ಸಸ್ಯಗಳು ಆಹಾರಕ್ಕೆ ಬಳಸುತ್ತವೆ.",
+      "sign": null,
+      "icon": "light_rays"
+    },
+    "heat": {
+      "en": "Heat",
+      "kn": "ಶಾಖ",
+      "meaning": "What makes things warm.",
+      "meaning_kn": "ವಸ್ತುಗಳನ್ನು ಬಿಸಿ ಮಾಡುವುದು.",
+      "sign": null,
+      "icon": "heat"
+    },
+    "energy": {
+      "en": "Energy",
+      "kn": "ಶಕ್ತಿ",
+      "meaning": "What makes things move, work and grow.",
+      "meaning_kn": "ವಸ್ತುಗಳನ್ನು ಚಲಿಸಲು, ಕೆಲಸ ಮಾಡಲು, ಬೆಳೆಯಲು ಬೇಕಾದದ್ದು.",
+      "sign": "energy",
+      "icon": "energy"
+    },
+    "soil": {
+      "en": "Soil",
+      "kn": "ಮಣ್ಣು",
+      "meaning": "The top layer of the ground. Plants grow in it.",
+      "meaning_kn": "ನೆಲದ ಮೇಲಿನ ಪದರ. ಸಸ್ಯಗಳು ಇದರಲ್ಲಿ ಬೆಳೆಯುತ್ತವೆ.",
+      "sign": "soil",
+      "icon": "red_soil"
+    },
+    "humus": {
+      "en": "Humus",
+      "kn": "ಹ್ಯೂಮಸ್",
+      "meaning": "Rotting leaves in the soil. It feeds the soil.",
+      "meaning_kn": "ಮಣ್ಣಿನಲ್ಲಿ ಕೊಳೆತ ಎಲೆಗಳು. ಮಣ್ಣನ್ನು ಫಲವತ್ತಾಗಿಸುತ್ತದೆ.",
+      "sign": null,
+      "icon": "humus"
+    },
+    "earthworm": {
+      "en": "Earthworm",
+      "kn": "ಎರೆಹುಳು",
+      "meaning": "A small animal that lives in soil and keeps it loose.",
+      "meaning_kn": "ಮಣ್ಣಿನಲ್ಲಿ ವಾಸಿಸಿ ಅದನ್ನು ಸಡಿಲವಾಗಿಡುವ ಸಣ್ಣ ಪ್ರಾಣಿ.",
+      "sign": null,
+      "icon": "earthworm"
+    },
+    "minerals": {
+      "en": "Minerals",
+      "kn": "ಖನಿಜಗಳು",
+      "meaning": "Tiny things in soil that keep plants healthy.",
+      "meaning_kn": "ಸಸ್ಯಗಳನ್ನು ಆರೋಗ್ಯವಾಗಿಡುವ ಮಣ್ಣಿನ ಸಣ್ಣ ವಸ್ತುಗಳು.",
+      "sign": null,
+      "icon": "minerals"
+    },
+    "water": {
+      "en": "Water",
+      "kn": "ನೀರು",
+      "meaning": "The clear liquid all living things need.",
+      "meaning_kn": "ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೂ ಬೇಕಾದ ಪಾರದರ್ಶಕ ದ್ರವ.",
+      "sign": "water",
+      "icon": "water_drop"
+    },
+    "rain": {
+      "en": "Rain",
+      "kn": "ಮಳೆ",
+      "meaning": "Water falling from clouds.",
+      "meaning_kn": "ಮೋಡಗಳಿಂದ ಬೀಳುವ ನೀರು.",
+      "sign": null,
+      "icon": "rain"
+    },
+    "root_hairs": {
+      "en": "Root hairs",
+      "kn": "ಬೇರುಕೂದಲು",
+      "meaning": "Very thin hairs on roots that take in water.",
+      "meaning_kn": "ನೀರು ಹೀರುವ ಬೇರಿನ ತೆಳು ಕೂದಲು.",
+      "sign": null,
+      "icon": "root_hairs"
+    },
+    "veins": {
+      "en": "Veins",
+      "kn": "ನರಗಳು",
+      "meaning": "Thin tubes in a leaf that carry water and food.",
+      "meaning_kn": "ನೀರು, ಆಹಾರ ಸಾಗಿಸುವ ಎಲೆಯ ತೆಳು ಕೊಳವೆಗಳು.",
+      "sign": null,
+      "icon": "veins"
+    },
+    "water_vapour": {
+      "en": "Water vapour",
+      "kn": "ನೀರಾವಿ",
+      "meaning": "Water as an invisible gas in the air.",
+      "meaning_kn": "ಗಾಳಿಯಲ್ಲಿ ಕಾಣದ ಅನಿಲ ರೂಪದ ನೀರು.",
+      "sign": null,
+      "icon": "vapour"
+    },
+    "stomata": {
+      "en": "Stomata",
+      "kn": "ಪತ್ರರಂಧ್ರಗಳು",
+      "meaning": "Tiny holes under a leaf. Air goes in and out.",
+      "meaning_kn": "ಎಲೆಯ ಕೆಳಗಿನ ಸಣ್ಣ ರಂಧ್ರಗಳು. ಗಾಳಿ ಒಳಗೆ, ಹೊರಗೆ ಹೋಗುತ್ತದೆ.",
+      "sign": null,
+      "icon": "stoma"
+    },
+    "cell": {
+      "en": "Cell",
+      "kn": "ಜೀವಕೋಶ",
+      "meaning": "The tiny building block of every living thing.",
+      "meaning_kn": "ಪ್ರತಿ ಜೀವಿಯ ಸಣ್ಣ ಘಟಕ.",
+      "sign": null,
+      "icon": "cell"
+    },
+    "microscope": {
+      "en": "Microscope",
+      "kn": "ಸೂಕ್ಷ್ಮದರ್ಶಕ",
+      "meaning": "A tool that makes tiny things look big.",
+      "meaning_kn": "ಸಣ್ಣ ವಸ್ತುಗಳನ್ನು ದೊಡ್ಡದಾಗಿ ತೋರಿಸುವ ಉಪಕರಣ.",
+      "sign": null,
+      "icon": "microscope"
+    },
+    "chlorophyll": {
+      "en": "Chlorophyll",
+      "kn": "ಪತ್ರಹರಿತ್ತು",
+      "meaning": "The green colouring in leaves that catches sunlight.",
+      "meaning_kn": "ಸೂರ್ಯನ ಬೆಳಕು ಹಿಡಿಯುವ ಎಲೆಯ ಹಸಿರು ಬಣ್ಣ.",
+      "sign": null,
+      "icon": "chloro_green"
+    },
+    "chloroplast": {
+      "en": "Chloroplast",
+      "kn": "ಹರಿತ್ತಿಲು",
+      "meaning": "A small green part inside a leaf cell. Food is made here.",
+      "meaning_kn": "ಎಲೆಯ ಜೀವಕೋಶದ ಸಣ್ಣ ಹಸಿರು ಭಾಗ. ಆಹಾರ ಇಲ್ಲಿ ತಯಾರಾಗುತ್ತದೆ.",
+      "sign": null,
+      "icon": "chloroplast"
+    },
+    "air": {
+      "en": "Air",
+      "kn": "ಗಾಳಿ",
+      "meaning": "All around us. We cannot see it, but we breathe it.",
+      "meaning_kn": "ನಮ್ಮ ಸುತ್ತಲೂ ಇದೆ. ಕಾಣುವುದಿಲ್ಲ, ಆದರೆ ಉಸಿರಾಡುತ್ತೇವೆ.",
+      "sign": null,
+      "icon": "air"
+    },
+    "gas": {
+      "en": "Gas",
+      "kn": "ಅನಿಲ",
+      "meaning": "Like air: it spreads out and has no shape.",
+      "meaning_kn": "ಗಾಳಿಯಂತೆ: ಹರಡುತ್ತದೆ, ಆಕಾರವಿಲ್ಲ.",
+      "sign": null,
+      "icon": "gas"
+    },
+    "carbon_dioxide": {
+      "en": "Carbon dioxide",
+      "kn": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "meaning": "A gas we breathe out. Plants take it in.",
+      "meaning_kn": "ನಾವು ಹೊರಬಿಡುವ ಅನಿಲ. ಸಸ್ಯಗಳು ಒಳಗೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ.",
+      "sign": "carbon_dioxide_sign_2",
+      "icon": "co2"
+    },
+    "oxygen": {
+      "en": "Oxygen",
+      "kn": "ಆಮ್ಲಜನಕ",
+      "meaning": "A gas in the air. We need it to breathe.",
+      "meaning_kn": "ಗಾಳಿಯಲ್ಲಿರುವ ಅನಿಲ. ಉಸಿರಾಡಲು ಬೇಕು.",
+      "sign": "oxygen_sign_2",
+      "icon": "o2"
+    },
+    "breathe": {
+      "en": "Breathe",
+      "kn": "ಉಸಿರಾಡು",
+      "meaning": "To take air in and let it out.",
+      "meaning_kn": "ಗಾಳಿಯನ್ನು ಒಳಗೆ ತೆಗೆದು ಹೊರಗೆ ಬಿಡುವುದು.",
+      "sign": "breathe",
+      "icon": "breathe"
+    },
+    "guard_cells": {
+      "en": "Guard cells",
+      "kn": "ಕಾವಲು ಜೀವಕೋಶಗಳು",
+      "meaning": "Two cells that open and close a stoma.",
+      "meaning_kn": "ಪತ್ರರಂಧ್ರವನ್ನು ತೆರೆದು ಮುಚ್ಚುವ ಎರಡು ಜೀವಕೋಶಗಳು.",
+      "sign": null,
+      "icon": "guard_cells"
+    },
+    "hydrogen": {
+      "en": "Hydrogen",
+      "kn": "ಜಲಜನಕ",
+      "meaning": "A part of water. It goes into the sugar.",
+      "meaning_kn": "ನೀರಿನ ಒಂದು ಭಾಗ. ಸಕ್ಕರೆಗೆ ಸೇರುತ್ತದೆ.",
+      "sign": null,
+      "icon": "hydrogen"
+    },
+    "sugar": {
+      "en": "Sugar",
+      "kn": "ಸಕ್ಕರೆ",
+      "meaning": "A sweet food. Plants make it in their leaves.",
+      "meaning_kn": "ಸಿಹಿ ಆಹಾರ. ಸಸ್ಯಗಳು ಎಲೆಗಳಲ್ಲಿ ತಯಾರಿಸುತ್ತವೆ.",
+      "sign": "sugar",
+      "icon": "sugar_cubes"
+    },
+    "glucose": {
+      "en": "Glucose",
+      "kn": "ಗ್ಲೂಕೋಸ್",
+      "meaning": "The sugar that leaves make.",
+      "meaning_kn": "ಎಲೆಗಳು ತಯಾರಿಸುವ ಸಕ್ಕರೆ.",
+      "sign": null,
+      "icon": "glucose"
+    },
+    "starch": {
+      "en": "Starch",
+      "kn": "ಪಿಷ್ಟ",
+      "meaning": "Stored food in potatoes, rice and bananas.",
+      "meaning_kn": "ಆಲೂಗಡ್ಡೆ, ಅಕ್ಕಿ, ಬಾಳೆಹಣ್ಣಿನಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಆಹಾರ.",
+      "sign": null,
+      "icon": "starch"
+    },
+    "algae": {
+      "en": "Algae",
+      "kn": "ಪಾಚಿ",
+      "meaning": "Tiny plants that live in water.",
+      "meaning_kn": "ನೀರಿನಲ್ಲಿ ಬದುಕುವ ಸೂಕ್ಷ್ಮ ಸಸ್ಯಗಳು.",
+      "sign": null,
+      "icon": "algae"
+    }
+  }
+}

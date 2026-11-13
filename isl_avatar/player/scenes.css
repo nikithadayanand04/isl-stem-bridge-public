@@ -1,0 +1,267 @@
+/* Teaching pictures (scenes.js). Colours stay the same in light and dark mode: they are
+   illustrations. Elements with data-b fade in on their step; .hl pulses the part being explained. */
+
+.diagram [data-b] { opacity: 0; transition: opacity 0.6s ease; }
+.diagram [data-b].on { opacity: 1; }
+.diagram { font-family: system-ui, sans-serif; }
+
+/* ---- labels ---- */
+.diagram .lbl text { font-weight: 700; font-size: 17px; fill: #1f2a33; paint-order: stroke; stroke: #ffffffd9; stroke-width: 4px; stroke-linejoin: round; }
+.diagram .lbl text.kn { font-size: 14px; font-weight: 600; fill: #2c3a46;
+  font-family: "Noto Sans Kannada", "Kannada Sangam MN", "Tunga", system-ui, sans-serif; }
+.diagram .lbl.light text { fill: #fff; stroke: #00000080; }
+.diagram .lbl.small text { font-size: 14px; }
+.diagram .lbl.small text.kn { font-size: 12px; }
+.diagram .lbl.title text { font-size: 24px; }
+.diagram .callout path { stroke: #1f2a33; stroke-width: 2; stroke-dasharray: 4 4; fill: none; }
+
+/* ---- shared parts ---- */
+.diagram .sky { fill: #dff1ff; }
+.diagram .soil { fill: #a8774c; }
+.diagram .space { fill: #0d1330; }
+.diagram .star { fill: #fff; }
+.diagram .micro { fill: #23384a; }
+.diagram .sun { fill: #ffd23f; stroke: #f4a300; stroke-width: 3; }
+.diagram .corona { fill: #ffd23f55; }
+.diagram .flare { fill: none; stroke: #ffb30088; stroke-width: 10; stroke-dasharray: 6 18; }
+.diagram .rays path { stroke: #f4a300; stroke-width: 5; stroke-linecap: round; stroke-dasharray: 14 10; fill: none; }
+.diagram .stem { fill: none; stroke: #3f8f3a; stroke-width: 9; stroke-linecap: round; }
+.diagram .leaf { fill: #5cb85c; stroke: #3f8f3a; stroke-width: 3; }
+.diagram .leaf.big { fill: #63c25a; }
+.diagram .petiole { stroke: #3f8f3a; stroke-width: 8; stroke-linecap: round; }
+.diagram .veins path { fill: none; stroke: #a8e69c; stroke-width: 3; stroke-linecap: round; }
+.diagram .vein-hl path { stroke: #2f8fe0; stroke-width: 4; }
+.diagram .roots path, .diagram .root-new { fill: none; stroke: #7a5230; stroke-width: 5; stroke-linecap: round; }
+.diagram .petal { fill: #ff8fb1; } .diagram .centre { fill: #ffd23f; }
+.diagram .drop { fill: #2f8fe0; }
+.diagram .mol circle { stroke: #455a64; stroke-width: 2; }
+.diagram .mol text { font-weight: 800; text-anchor: middle; fill: #1f2a33; }
+.diagram .co2m circle { fill: #cfd8dc; }
+.diagram .o2m circle { fill: #b3e5fc; }
+.diagram .n2 circle { fill: #ffffff; }
+.diagram .h circle { fill: #fff59d; }
+.diagram .h2o circle { fill: #90caf9; }
+.diagram .person circle, .diagram .person path { fill: #8d6e63; }
+.diagram .cube { fill: #fff6d6; stroke: #c9a227; stroke-width: 2; }
+.diagram .zap { fill: none; stroke: #ffb300; stroke-width: 4; stroke-linejoin: round; }
+.diagram .in-arrow, .diagram .trip, .diagram .cycle { fill: none; stroke: #ffffffcc; stroke-width: 3; stroke-dasharray: 8 6; }
+.diagram .cycle { stroke: #455a64; stroke-width: 4; }
+.diagram .cycle.top { stroke: #0288d1; } .diagram .cycle.bottom { stroke: #78909c; }
+
+/* magnifier */
+.diagram .lens-bg { fill: #fff; }
+.diagram .lens { fill: none; stroke: #37474f; stroke-width: 8; }
+.diagram .handle { stroke: #37474f; stroke-width: 14; stroke-linecap: round; }
+
+/* intro */
+.diagram .cow ellipse, .diagram .cow circle { fill: #f5f5f5; stroke: #5d4037; stroke-width: 2; }
+.diagram .cow path { stroke: #5d4037; stroke-width: 5; }
+.diagram .bowl path { fill: #ef6c00; }
+.diagram .question text { font-size: 64px; font-weight: 800; fill: #c62828; }
+.diagram .wordsum rect, .diagram .equation rect { fill: #fffde7; stroke: #f9a825; stroke-width: 2; }
+.diagram .wordsum text { font-size: 17px; font-weight: 700; fill: #1f2a33; }
+.diagram .wordsum .hot { fill: #e65100; }
+.diagram .wordsum text.kn, .diagram .equation text.kn { font-size: 14px; font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.diagram .equation text { text-anchor: middle; font-size: 22px; font-weight: 800; fill: #1f2a33; }
+.diagram .equation.small text { font-size: 17px; }
+
+/* plant */
+.diagram .pipe-water path { stroke: #2f8fe0; stroke-width: 4; stroke-dasharray: 6 8; fill: none; }
+.diagram .seeds ellipse { fill: #6d4c41; } .diagram .sprout { stroke: #3f8f3a; stroke-width: 3; fill: none; }
+
+/* sun */
+.diagram .heat .wave { fill: none; stroke: #ff7043; stroke-width: 4; stroke-linecap: round; }
+.diagram .photon { fill: #fff59d; }
+.diagram .earth { fill: #1e88e5; } .diagram .land { fill: none; stroke: #43a047; stroke-width: 6; }
+.diagram .sky-panel { fill: #dff1ff; }
+.diagram .pot { fill: #bf6f3a; }
+.diagram .spark { fill: #ffeb3b; stroke: #f9a825; }
+
+/* soil */
+.diagram .layer.top { fill: #5d4037; } .diagram .layer.sub { fill: #8d6e63; } .diagram .layer.rock { fill: #9e9e9e; }
+.diagram .stone { fill: #757575; }
+.diagram .grass { fill: none; stroke: #43a047; stroke-width: 4; }
+.diagram .zoom-soil { fill: #6d4c41; }
+.diagram .sand { fill: #e0c27a; } .diagram .clay { fill: #b0603a; } .diagram .humus { fill: #2e1d14; }
+.diagram .air-pocket { fill: #ffffff; stroke: #90a4ae; }
+.diagram .worm path { fill: none; stroke: #f48fb1; stroke-width: 10; stroke-linecap: round; }
+.diagram .mineral { fill: #ffd54f; stroke: #8d6e63; }
+
+/* water */
+.diagram .cloud ellipse { fill: #eceff1; stroke: #b0bec5; }
+.diagram .rain { stroke: #2f8fe0; stroke-width: 3; stroke-linecap: round; }
+.diagram .root-close { stroke: #7a5230; stroke-width: 12; stroke-linecap: round; }
+.diagram .hair { stroke: #a1887f; stroke-width: 2; }
+.diagram .xylem path, .diagram .leaf-veins path { stroke: #2f8fe0; stroke-width: 5; stroke-dasharray: 8 8; fill: none; }
+.diagram .vapour { fill: none; stroke: #90caf9; stroke-width: 4; stroke-linecap: round; }
+
+/* leaf */
+.diagram .leaf-under { fill: #8bc34a; }
+.diagram .stoma .guard { fill: #43a047; stroke: #1b5e20; stroke-width: 2; }
+.diagram .stoma .pore { fill: #1b3a1b; }
+.diagram .cell-bg { fill: #c5e1a5; }
+.diagram .cell { fill: #e8f5e9; stroke: #66bb6a; stroke-width: 2; }
+.diagram .chloro-dot { fill: #2e7d32; }
+
+/* chlorophyll */
+.diagram .big-cell { fill: #e8f5e9; stroke: #81c784; stroke-width: 6; }
+.diagram .nucleus { fill: #b39ddb; }
+.diagram .chloroplast { fill: #43a047; stroke: #1b5e20; stroke-width: 2; }
+.diagram .chloroplast.huge { fill: #66bb6a; }
+.diagram .thylakoid { fill: #1b5e20; stroke: #a5d6a7; }
+.diagram .thylakoid.faint { opacity: .35; }
+.diagram .panel rect { fill: #1a237e; stroke: #9fa8da; stroke-width: 2; } .diagram .panel path { stroke: #9fa8da; stroke-width: 2; }
+.diagram .spectrum path { stroke-width: 6; fill: none; }
+.diagram .bounce { stroke: #43a047; stroke-width: 6; stroke-dasharray: 10 8; fill: none; }
+.diagram .eye ellipse { fill: #fff; stroke: #37474f; stroke-width: 2; } .diagram .eye circle { fill: #3e2723; }
+
+/* carbon dioxide */
+.diagram .air-box { fill: #ffffffaa; stroke: #90a4ae; stroke-width: 2; stroke-dasharray: 6 6; }
+.diagram .atom.o { fill: #e53935; } .diagram .atom.c { fill: #424242; }
+.diagram .atom-t { fill: #fff; font-size: 26px; font-weight: 800; text-anchor: middle; }
+.diagram .bond { stroke: #37474f; stroke-width: 6; }
+.diagram .stoma.big .guard { fill: #2e7d32; stroke: #1b5e20; stroke-width: 3; }
+.diagram .moon { fill: #fff9c4; }
+.diagram .pore-big { fill: #1b3a1b; }
+
+/* making food */
+.diagram .glucose { fill: #fff6d6; stroke: #c9a227; stroke-width: 3; }
+.diagram .glu-t { font-size: 13px; font-weight: 800; text-anchor: middle; fill: #5d4037; }
+.diagram .vein-out { stroke: #fff6d6; stroke-width: 4; stroke-dasharray: 8 8; fill: none; }
+
+/* oxygen */
+.diagram .sea { fill: #4fc3f7; } .diagram .waves { fill: none; stroke: #e1f5fe; stroke-width: 4; }
+.diagram .algae { fill: #2e7d32; }
+
+/* growth */
+.diagram .potato ellipse { fill: #c8a165; stroke: #8d6e63; stroke-width: 2; }
+.diagram .rice ellipse { fill: #fffde7; stroke: #bdbdbd; }
+.diagram .banana { fill: #ffe082; stroke: #f9a825; stroke-width: 2; }
+
+/* ---- motion ---- */
+@media (prefers-reduced-motion: no-preference) {
+  .diagram .hl { animation: hl 1.2s ease-in-out infinite; }
+  .diagram .rays path, .diagram .xylem path, .diagram .leaf-veins path, .diagram .pipe-water path,
+  .diagram .in-arrow, .diagram .trip, .diagram .cycle, .diagram .vein-out, .diagram .bounce { animation: flow 0.9s linear infinite; }
+  .diagram .corona { animation: breathe 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .diagram .flare { animation: spin 20s linear infinite; transform-box: fill-box; transform-origin: center; }
+  .diagram .heat .wave { animation: waver 1.4s ease-in-out infinite; }
+  .diagram .heat .w1 { animation-delay: 0.3s; } .diagram .heat .w2 { animation-delay: 0.6s; }
+  .diagram .photon { animation: travel 2.4s linear infinite; }
+  .diagram .spark { animation: twinkle 1.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .diagram .spark.s1 { animation-delay: 0.4s; } .diagram .spark.s2 { animation-delay: 0.8s; }
+  .diagram .leaf.glow { animation: leafglow 1.6s ease-in-out infinite; }
+  .diagram .drop.rise { animation: rise 2.4s ease-in infinite; }
+  .diagram .drop.rise.d2 { animation-delay: 1.2s; }
+  .diagram .drift-in { animation: drift 3s ease-in-out infinite; }
+  .diagram .drift-in.d2 { animation-delay: 1.5s; }
+  .diagram .rain { animation: rain 0.8s linear infinite; } .diagram .rain.r1 { animation-delay: 0.27s; } .diagram .rain.r2 { animation-delay: 0.53s; }
+  .diagram .soak { animation: soak 2.2s ease-in infinite; } .diagram .soak.k1 { animation-delay: 0.7s; } .diagram .soak.k2 { animation-delay: 1.4s; }
+  .diagram .drop.into { animation: into 1.8s ease-in infinite; } .diagram .drop.into.d2 { animation-delay: 0.9s; }
+  .diagram .vapour { animation: vapour 2.4s ease-out infinite; } .diagram .vapour.v1 { animation-delay: 0.8s; } .diagram .vapour.v2 { animation-delay: 1.6s; }
+  .diagram .worm path { animation: wiggle 1.6s ease-in-out infinite; }
+  .diagram .mineral { animation: tobase 2.6s ease-in infinite; } .diagram .mineral.m1 { animation-delay: 0.6s; } .diagram .mineral.m2 { animation-delay: 1.2s; } .diagram .mineral.m3 { animation-delay: 1.8s; }
+  .diagram .roots.grow path { stroke-dasharray: 260; animation: draw 3s ease-out infinite; }
+  .diagram .float { animation: bob 3s ease-in-out infinite; } .diagram .float:nth-child(2n) { animation-delay: 1s; }
+  .diagram .breath-out .mol { animation: exhale 2.4s ease-out infinite; } .diagram .breath-out .d2 { animation-delay: 1.2s; }
+  .diagram .enter { animation: enter 2.6s ease-in infinite; } .diagram .enter.d2 { animation-delay: 1.3s; }
+  .diagram .daynight ~ * .guard, .diagram [data-beat="5"] .stoma.big .guard.l { animation: guard-l 4s ease-in-out infinite; }
+  .diagram [data-beat="5"] .stoma.big .guard.r { animation: guard-r 4s ease-in-out infinite; }
+  .diagram .stoma.big .guard.l { transform: translateX(-12px); } .diagram .stoma.big .guard.r { transform: translateX(12px); }
+  .diagram .sun-g, .diagram .moon-g { transition: opacity .3s; }
+  .diagram .daynight .sun-g { animation: day 4s steps(1) infinite; } .diagram .daynight .moon-g { animation: night 4s steps(1) infinite; }
+  .diagram .h-part { animation: apart-l 2.4s ease-out infinite alternate; } .diagram .o-part { animation: apart-r 2.4s ease-out infinite alternate; }
+  .diagram .glucose { animation: pop 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+  .diagram .sugar-flow .cube { animation: carry 2.8s linear infinite; }
+  .diagram .sugar-flow .q1 { animation-delay: 0.7s; } .diagram .sugar-flow .q2 { animation-delay: 1.4s; } .diagram .sugar-flow .q3 { animation-delay: 2.1s; }
+  .diagram .o-free { animation: drift-up 2.4s ease-out infinite; }
+  .diagram .o2-out { animation: out-down 2.6s ease-out infinite; } .diagram .o2-out.d2 { animation-delay: 1.3s; }
+  .diagram .to-person { animation: to-person 3s ease-in-out infinite; } .diagram .to-person.d2 { animation-delay: 1.5s; }
+  .diagram .o2-up .mol { animation: drift-up 3s ease-out infinite; } .diagram .o2-up .d2 { animation-delay: 1.5s; }
+  .diagram .algae { animation: bob 2.4s ease-in-out infinite; }
+  .diagram .growing { animation: grow 4s ease-in-out infinite alternate; transform-origin: 300px 280px; }
+  .diagram .new-parts .leaf.new { animation: sprout 4s ease-out infinite alternate; transform-box: fill-box; transform-origin: left center; }
+  .diagram .zap { animation: twinkle 1s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+}
+@keyframes hl { 50% { filter: drop-shadow(0 0 8px #ffeb3b) brightness(1.25); } }
+@keyframes flow { to { stroke-dashoffset: -24; } }
+@keyframes breathe { 50% { transform: scale(1.12); } }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes waver { 50% { transform: translateX(10px); opacity: .5; } }
+@keyframes travel { from { transform: translateX(0); } to { transform: translateX(280px); } }
+@keyframes twinkle { 0%, 100% { transform: scale(.6); opacity: .4; } 50% { transform: scale(1.3); opacity: 1; } }
+@keyframes leafglow { 50% { fill: #b6f2a4; } }
+@keyframes rise { 0% { transform: translateY(0); opacity: 0; } 15%, 85% { opacity: 1; } 100% { transform: translateY(-170px); opacity: 0; } }
+@keyframes drift { 0% { transform: translate(0, 0); opacity: 0; } 20% { opacity: 1; } 100% { transform: translate(-190px, 20px); opacity: .1; } }
+@keyframes rain { from { transform: translateY(0); opacity: 1; } to { transform: translateY(160px); opacity: .2; } }
+@keyframes soak { 0% { transform: translateY(-20px); opacity: 1; } 100% { transform: translateY(50px); opacity: 0; } }
+@keyframes into { 0% { transform: translate(0, 0); opacity: 1; } 100% { transform: translate(10px, -20px); opacity: 0; } }
+@keyframes vapour { 0% { transform: translateY(0); opacity: 0; } 30% { opacity: 1; } 100% { transform: translateY(-60px); opacity: 0; } }
+@keyframes wiggle { 50% { transform: translateX(14px) scaleY(.8); } }
+@keyframes tobase { 0% { opacity: 1; } 100% { transform: translate(30px, -60px); opacity: 0; } }
+@keyframes draw { from { stroke-dashoffset: 260; } to { stroke-dashoffset: 0; } }
+@keyframes bob { 50% { transform: translateY(-8px); } }
+@keyframes exhale { 0% { transform: translate(30px, 0); opacity: 0; } 30% { opacity: 1; } 100% { transform: translate(-120px, -20px); opacity: 0; } }
+@keyframes enter { 0% { transform: translateY(0); opacity: 0; } 25% { opacity: 1; } 100% { transform: translateY(-140px); opacity: 0; } }
+@keyframes guard-l { 0%, 45% { transform: translateX(-12px); } 55%, 100% { transform: translateX(0); } }
+@keyframes guard-r { 0%, 45% { transform: translateX(12px); } 55%, 100% { transform: translateX(0); } }
+@keyframes day { 0% { opacity: 1; } 50% { opacity: .15; } }
+@keyframes night { 0% { opacity: .15; } 50% { opacity: 1; } }
+@keyframes apart-l { to { transform: translate(-40px, 10px); } }
+@keyframes apart-r { to { transform: translate(50px, -20px); } }
+@keyframes pop { 0% { transform: scale(.4); } 40% { transform: scale(1.1); } 60%, 100% { transform: scale(1); } }
+@keyframes carry { 0% { transform: translateX(0); opacity: 1; } 100% { transform: translateX(260px); opacity: 0; } }
+@keyframes drift-up { 0% { transform: translateY(0); opacity: 1; } 100% { transform: translate(20px, -90px); opacity: 0; } }
+@keyframes out-down { 0% { transform: translateY(0); opacity: 0; } 25% { opacity: 1; } 100% { transform: translateY(110px); opacity: 0; } }
+@keyframes to-person { 0% { transform: translate(0, 0); opacity: 0; } 20% { opacity: 1; } 100% { transform: translate(220px, 60px); opacity: 0; } }
+@keyframes grow { from { transform: scale(.9); } to { transform: scale(1.1); } }
+@keyframes sprout { 0%, 20% { transform: scale(0); } 80%, 100% { transform: scale(1); } }
+
+/* ---- chapter word (above the picture) and step dots ---- */
+.picture .concept { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; padding: 10px 14px;
+  border-bottom: 1px solid var(--line); }
+.concept-term { font-size: 24px; font-weight: 800; }
+.concept-kn { font-size: 20px; font-weight: 700; color: var(--quiet); font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.concept-sign { margin-left: auto; align-self: center; font-size: 16px; font-weight: 700; color: #fff; background: #6a1b9a;
+  border: 0; border-radius: 10px; padding: 6px 14px; min-height: 40px; cursor: pointer; }
+.concept-sign.now { outline: 3px solid #ffd23f; }
+.concept-why { flex-basis: 100%; font-size: 13px; color: var(--quiet); }
+.steps button { width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--accent); background: var(--panel);
+  color: var(--accent); font-weight: 700; font-size: 14px; cursor: pointer; padding: 0; }
+.steps button.done { background: var(--soft); }
+.steps button[aria-current="step"] { background: var(--accent); color: var(--accent-ink); }
+
+/* ---- example galleries ---- */
+.diagram .gallery-bg { fill: #f3f7fb; }
+.diagram .gallery-title { text-anchor: middle; font-size: 20px; font-weight: 800; fill: #1f2a33; }
+.diagram .gallery-title.kn { font-size: 15px; font-weight: 600; font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.diagram .card-bg { fill: #fff; stroke: #cfd8dc; stroke-width: 2; }
+.diagram .card.mark-yes .card-bg { stroke: #43a047; stroke-width: 3; }
+.diagram .card.mark-no .card-bg { stroke: #e53935; stroke-width: 3; stroke-dasharray: 8 5; }
+.diagram .card-en { text-anchor: middle; font-size: 16px; font-weight: 800; fill: #1f2a33; }
+.diagram .card-kn { text-anchor: middle; font-size: 13px; font-weight: 600; fill: #37474f; font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.diagram .card-note { text-anchor: middle; font-size: 11px; fill: #546e7a; }
+.diagram .badge circle { fill: #43a047; } .diagram .mark-no .badge circle { fill: #e53935; }
+.diagram .badge text { text-anchor: middle; font-size: 17px; font-weight: 800; fill: #fff; }
+.diagram .card { animation: card-in 0.5s ease-out both; }
+@keyframes card-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .diagram .card { animation: none; } }
+
+/* ---- word cards: picture, word, meaning, ISL sign ---- */
+.key-terms-list { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+.key-terms-list .word-card { flex: 0 0 250px; }
+.key-terms-list:has(.word-card):not(.all) { }
+.word-card { display: grid; grid-template-columns: 56px 1fr; gap: 2px 10px; align-items: start;
+  background: var(--panel); color: var(--ink); border: 2px solid var(--line); border-radius: 12px; padding: 8px 10px; }
+.word-card svg { width: 56px; height: 56px; grid-row: 1 / span 2; border-radius: 8px; background: #f3f7fb; }
+.word-card .word-text { display: flex; flex-direction: column; line-height: 1.3; }
+.word-card .w-en { font-size: 17px; font-weight: 800; }
+.word-card .w-kn { font-size: 15px; font-weight: 700; color: var(--quiet); font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.word-card .w-mean { font-size: 13px; margin-top: 2px; }
+.word-card .w-mean-kn { font-size: 12.5px; color: var(--quiet); font-family: "Noto Sans Kannada", "Kannada Sangam MN", system-ui; }
+.word-card button { grid-column: 2; justify-self: start; margin-top: 4px; font-size: 14px; font-weight: 700; color: #fff;
+  background: #6a1b9a; border: 0; border-radius: 8px; padding: 4px 12px; min-height: 34px; cursor: pointer; }
+.word-card.signed { border-color: #ab47bc; }
+.word-card.now { border-color: #ffb300; box-shadow: 0 0 0 4px #ffd54f88; }
+/* "Key words" chapter: all cards in a grid */
+.key-terms-list.all { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); overflow: visible; }

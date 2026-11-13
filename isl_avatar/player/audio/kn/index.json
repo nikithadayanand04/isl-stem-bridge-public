@@ -1,0 +1,354 @@
+{
+  "language": "kn",
+  "voice": "kn-IN-SapnaNeural",
+  "voice_gender": "female",
+  "engine": "edge",
+  "voice_locale": "kn-IN",
+  "sections": {
+    "introduction.1": {
+      "audio": "introduction.1.m4a",
+      "lip": "introduction.1.lip.json",
+      "duration": 4.848
+    },
+    "introduction.2": {
+      "audio": "introduction.2.m4a",
+      "lip": "introduction.2.lip.json",
+      "duration": 8.808
+    },
+    "introduction.3": {
+      "audio": "introduction.3.m4a",
+      "lip": "introduction.3.lip.json",
+      "duration": 8.592
+    },
+    "introduction.4": {
+      "audio": "introduction.4.m4a",
+      "lip": "introduction.4.lip.json",
+      "duration": 6.072
+    },
+    "introduction.5": {
+      "audio": "introduction.5.m4a",
+      "lip": "introduction.5.lip.json",
+      "duration": 9.936
+    },
+    "introduction.6": {
+      "audio": "introduction.6.m4a",
+      "lip": "introduction.6.lip.json",
+      "duration": 11.208
+    },
+    "plant.1": {
+      "audio": "plant.1.m4a",
+      "lip": "plant.1.lip.json",
+      "duration": 4.416
+    },
+    "plant.2": {
+      "audio": "plant.2.m4a",
+      "lip": "plant.2.lip.json",
+      "duration": 8.952
+    },
+    "plant.3": {
+      "audio": "plant.3.m4a",
+      "lip": "plant.3.lip.json",
+      "duration": 9.024
+    },
+    "plant.4": {
+      "audio": "plant.4.m4a",
+      "lip": "plant.4.lip.json",
+      "duration": 8.904
+    },
+    "plant.5": {
+      "audio": "plant.5.m4a",
+      "lip": "plant.5.lip.json",
+      "duration": 8.28
+    },
+    "plant.6": {
+      "audio": "plant.6.m4a",
+      "lip": "plant.6.lip.json",
+      "duration": 7.08
+    },
+    "plant.7": {
+      "audio": "plant.7.m4a",
+      "lip": "plant.7.lip.json",
+      "duration": 10.368
+    },
+    "sun.1": {
+      "audio": "sun.1.m4a",
+      "lip": "sun.1.lip.json",
+      "duration": 6.192
+    },
+    "sun.2": {
+      "audio": "sun.2.m4a",
+      "lip": "sun.2.lip.json",
+      "duration": 3.936
+    },
+    "sun.3": {
+      "audio": "sun.3.m4a",
+      "lip": "sun.3.lip.json",
+      "duration": 7.56
+    },
+    "sun.4": {
+      "audio": "sun.4.m4a",
+      "lip": "sun.4.lip.json",
+      "duration": 9.768
+    },
+    "sun.5": {
+      "audio": "sun.5.m4a",
+      "lip": "sun.5.lip.json",
+      "duration": 5.88
+    },
+    "sun.6": {
+      "audio": "sun.6.m4a",
+      "lip": "sun.6.lip.json",
+      "duration": 7.896
+    },
+    "sun.7": {
+      "audio": "sun.7.m4a",
+      "lip": "sun.7.lip.json",
+      "duration": 8.496
+    },
+    "soil.1": {
+      "audio": "soil.1.m4a",
+      "lip": "soil.1.lip.json",
+      "duration": 3.696
+    },
+    "soil.2": {
+      "audio": "soil.2.m4a",
+      "lip": "soil.2.lip.json",
+      "duration": 10.056
+    },
+    "soil.3": {
+      "audio": "soil.3.m4a",
+      "lip": "soil.3.lip.json",
+      "duration": 11.832
+    },
+    "soil.4": {
+      "audio": "soil.4.m4a",
+      "lip": "soil.4.lip.json",
+      "duration": 6.576
+    },
+    "soil.5": {
+      "audio": "soil.5.m4a",
+      "lip": "soil.5.lip.json",
+      "duration": 7.272
+    },
+    "soil.6": {
+      "audio": "soil.6.m4a",
+      "lip": "soil.6.lip.json",
+      "duration": 8.112
+    },
+    "water.1": {
+      "audio": "water.1.m4a",
+      "lip": "water.1.lip.json",
+      "duration": 3.456
+    },
+    "water.2": {
+      "audio": "water.2.m4a",
+      "lip": "water.2.lip.json",
+      "duration": 7.152
+    },
+    "water.3": {
+      "audio": "water.3.m4a",
+      "lip": "water.3.lip.json",
+      "duration": 5.328
+    },
+    "water.4": {
+      "audio": "water.4.m4a",
+      "lip": "water.4.lip.json",
+      "duration": 7.536
+    },
+    "water.5": {
+      "audio": "water.5.m4a",
+      "lip": "water.5.lip.json",
+      "duration": 6.816
+    },
+    "water.6": {
+      "audio": "water.6.m4a",
+      "lip": "water.6.lip.json",
+      "duration": 8.52
+    },
+    "leaf.1": {
+      "audio": "leaf.1.m4a",
+      "lip": "leaf.1.lip.json",
+      "duration": 10.512
+    },
+    "leaf.2": {
+      "audio": "leaf.2.m4a",
+      "lip": "leaf.2.lip.json",
+      "duration": 5.952
+    },
+    "leaf.3": {
+      "audio": "leaf.3.m4a",
+      "lip": "leaf.3.lip.json",
+      "duration": 8.544
+    },
+    "leaf.4": {
+      "audio": "leaf.4.m4a",
+      "lip": "leaf.4.lip.json",
+      "duration": 10.632
+    },
+    "leaf.5": {
+      "audio": "leaf.5.m4a",
+      "lip": "leaf.5.lip.json",
+      "duration": 9.984
+    },
+    "leaf.6": {
+      "audio": "leaf.6.m4a",
+      "lip": "leaf.6.lip.json",
+      "duration": 9.648
+    },
+    "leaf.7": {
+      "audio": "leaf.7.m4a",
+      "lip": "leaf.7.lip.json",
+      "duration": 7.44
+    },
+    "chlorophyll.1": {
+      "audio": "chlorophyll.1.m4a",
+      "lip": "chlorophyll.1.lip.json",
+      "duration": 5.112
+    },
+    "chlorophyll.2": {
+      "audio": "chlorophyll.2.m4a",
+      "lip": "chlorophyll.2.lip.json",
+      "duration": 5.592
+    },
+    "chlorophyll.3": {
+      "audio": "chlorophyll.3.m4a",
+      "lip": "chlorophyll.3.lip.json",
+      "duration": 4.944
+    },
+    "chlorophyll.4": {
+      "audio": "chlorophyll.4.m4a",
+      "lip": "chlorophyll.4.lip.json",
+      "duration": 5.88
+    },
+    "chlorophyll.5": {
+      "audio": "chlorophyll.5.m4a",
+      "lip": "chlorophyll.5.lip.json",
+      "duration": 13.44
+    },
+    "chlorophyll.6": {
+      "audio": "chlorophyll.6.m4a",
+      "lip": "chlorophyll.6.lip.json",
+      "duration": 11.4
+    },
+    "carbon_dioxide.1": {
+      "audio": "carbon_dioxide.1.m4a",
+      "lip": "carbon_dioxide.1.lip.json",
+      "duration": 6.36
+    },
+    "carbon_dioxide.2": {
+      "audio": "carbon_dioxide.2.m4a",
+      "lip": "carbon_dioxide.2.lip.json",
+      "duration": 8.784
+    },
+    "carbon_dioxide.3": {
+      "audio": "carbon_dioxide.3.m4a",
+      "lip": "carbon_dioxide.3.lip.json",
+      "duration": 9.288
+    },
+    "carbon_dioxide.4": {
+      "audio": "carbon_dioxide.4.m4a",
+      "lip": "carbon_dioxide.4.lip.json",
+      "duration": 10.632
+    },
+    "carbon_dioxide.5": {
+      "audio": "carbon_dioxide.5.m4a",
+      "lip": "carbon_dioxide.5.lip.json",
+      "duration": 7.632
+    },
+    "carbon_dioxide.6": {
+      "audio": "carbon_dioxide.6.m4a",
+      "lip": "carbon_dioxide.6.lip.json",
+      "duration": 8.544
+    },
+    "making_food.1": {
+      "audio": "making_food.1.m4a",
+      "lip": "making_food.1.lip.json",
+      "duration": 6.816
+    },
+    "making_food.2": {
+      "audio": "making_food.2.m4a",
+      "lip": "making_food.2.lip.json",
+      "duration": 6.648
+    },
+    "making_food.3": {
+      "audio": "making_food.3.m4a",
+      "lip": "making_food.3.lip.json",
+      "duration": 6.24
+    },
+    "making_food.4": {
+      "audio": "making_food.4.m4a",
+      "lip": "making_food.4.lip.json",
+      "duration": 7.344
+    },
+    "making_food.5": {
+      "audio": "making_food.5.m4a",
+      "lip": "making_food.5.lip.json",
+      "duration": 7.992
+    },
+    "oxygen.1": {
+      "audio": "oxygen.1.m4a",
+      "lip": "oxygen.1.lip.json",
+      "duration": 3.72
+    },
+    "oxygen.2": {
+      "audio": "oxygen.2.m4a",
+      "lip": "oxygen.2.lip.json",
+      "duration": 5.424
+    },
+    "oxygen.3": {
+      "audio": "oxygen.3.m4a",
+      "lip": "oxygen.3.lip.json",
+      "duration": 7.776
+    },
+    "oxygen.4": {
+      "audio": "oxygen.4.m4a",
+      "lip": "oxygen.4.lip.json",
+      "duration": 9.432
+    },
+    "oxygen.5": {
+      "audio": "oxygen.5.m4a",
+      "lip": "oxygen.5.lip.json",
+      "duration": 11.76
+    },
+    "oxygen.6": {
+      "audio": "oxygen.6.m4a",
+      "lip": "oxygen.6.lip.json",
+      "duration": 7.608
+    },
+    "growing.1": {
+      "audio": "growing.1.m4a",
+      "lip": "growing.1.lip.json",
+      "duration": 5.736
+    },
+    "growing.2": {
+      "audio": "growing.2.m4a",
+      "lip": "growing.2.lip.json",
+      "duration": 8.208
+    },
+    "growing.3": {
+      "audio": "growing.3.m4a",
+      "lip": "growing.3.lip.json",
+      "duration": 7.344
+    },
+    "growing.4": {
+      "audio": "growing.4.m4a",
+      "lip": "growing.4.lip.json",
+      "duration": 9.312
+    },
+    "growing.5": {
+      "audio": "growing.5.m4a",
+      "lip": "growing.5.lip.json",
+      "duration": 6.12
+    },
+    "key_terms": {
+      "audio": "key_terms.m4a",
+      "lip": "key_terms.lip.json",
+      "duration": 8.832
+    },
+    "recap": {
+      "audio": "recap.m4a",
+      "lip": "recap.lip.json",
+      "duration": 45.768
+    }
+  }
+}

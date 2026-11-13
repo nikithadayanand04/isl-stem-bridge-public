@@ -1,0 +1,74 @@
+{
+  "_about": "Settings for tools/retarget_blender.py. Each value was chosen by measurement; see MOTION_VALIDATION.md before changing one.",
+  "smoothing": {
+    "_about": "Zero-phase low-pass (2nd-order Butterworth run forwards and backwards) per stream, on the working copy only. Measured 10 Nov 2026 over all signs: hands at 6 Hz keep at least 91% of every sign's finger-flexion range (5 Hz: 88%) and leave 49% of the frame-to-frame jitter; the previous causal One Euro filter (8 Hz / beta 30) kept only 86% in the worst sign and left 67% of the jitter. The image pose is filtered too because the arms are now placed from it.",
+    "pose_world": {
+      "cutoff_hz": 6.0
+    },
+    "pose": {
+      "cutoff_hz": 6.0
+    },
+    "left_hand_world": {
+      "cutoff_hz": 6.0
+    },
+    "right_hand_world": {
+      "cutoff_hz": 6.0
+    },
+    "left_hand": {
+      "cutoff_hz": 6.0
+    },
+    "right_hand": {
+      "cutoff_hz": 6.0
+    },
+    "face": {
+      "cutoff_hz": 6.0
+    }
+  },
+  "contact": {
+    "_about": "Fingertip contact correction: smoothstep easing over ease_frames before/after each touch (was 3, linear), and the stop distance in metres.",
+    "ease_frames": 5,
+    "stop_distance_m": 0.005,
+    "max_iterations": 6
+  },
+  "face": {
+    "_about": "Facial blendshapes. calibration 'neutral': each clip's resting face (median scores while both hands rest) is subtracted and the rest rescaled to 0-1, because MediaPipe reads some relaxed faces as partly squinting/frowning (measured 7 Nov 2026 on ISLRTC 'magnet': squint 0.24, brow-down 0.36). 'none' keys the raw scores. Gains per ARKit shape (1.0 = unchanged); change only after checking renders with tools/facial_validator.py.",
+    "default_gain": 1.0,
+    "gains": {},
+    "calibration": "neutral"
+  },
+  "finger_joint_limits": {
+    "_about": "Largest change from rest (degrees) each finger joint may make relative to its parent bone. Hand tracking returns impossible shapes in some occluded or blurred frames (measured 7 Nov 2026: up to 177 degrees at the PIP in 'water'); those are limited and counted when baking. Anatomical active range of motion, rounded up.",
+    "thumb1": 70.0,
+    "thumb2": 70.0,
+    "thumb3": 90.0,
+    "finger1": 105.0,
+    "finger2": 115.0,
+    "finger3": 90.0
+  },
+  "thumb_collision": {
+    "_about": "Thumb-in-finger overlap removal after baking (tools/hand_collision.py). Measured 7 Nov 2026: the avatar's thumb sat 5-9 mm inside the index/middle finger in most signing frames of several signs, because the hand proportions differ from the signer's. The thumb is turned at its base until at most target_depth_mm remains (skin contact), eased over ease_frames.",
+    "enabled": true,
+    "target_depth_mm": 1.0,
+    "max_iterations": 6,
+    "max_correction_deg": 25.0,
+    "ease_frames": 5
+  },
+  "arms": {
+    "_about": "image_anchor: take arm height and sideways position from the picture, depth from the 3D pose with fixed bone lengths. Measured 10 Nov 2026: the 3D pose put wrists 0.13-0.32 shoulder widths too low in every sign and shortened raised arms by up to 30% (electricity peak: 0.81 above the shoulders in the picture, 0.54 in 3D).",
+    "image_anchor": true
+  },
+  "rest_pose": {
+    "_about": "Resting hands (motion_qc.hand_resting) blend to the natural rest pose of tools/rest_pose.py instead of tracked data, with a smoothstep over ease_frames before and after. Measured 10 Nov 2026: the old idle (a tracked frame) had one hand inside the hip and the other bent at the wrist.",
+    "enabled": true,
+    "ease_frames": 6
+  },
+  "detector_blend_frames": 4,
+  "output_fps": 60,
+  "_output_fps_about": "Baked keys are resampled to this rate from a smooth (Catmull-Rom) curve through the per-frame solutions, so slow playback has no corners at the source frames.",
+  "hands": {
+    "_about": "image_anchor: the four fingers' joints placed from the picture (x and height, scaled by the palm's projection), depth from the 3D hand with fixed segment lengths, bending towards the palm. Measured 10 Nov 2026: the 3D hand flattened magnet's claw handshape (2D fingertip layout error 0.41 hand lengths) while the 3D check saw only 1.7 deg error, because it compares against the same flattened points.",
+    "image_anchor": true,
+    "_finger_fit_about": "finger_fit: fit anatomically possible fingers (MCP/PIP/DIP within limits, DIP ~ 0.67 PIP) to the picture instead of reading each segment on its own (tools/retarget_math.py fitted_finger_hand). Measured 12 Nov 2026 with the visual loop check on 14 signs (22 hands): 10 better, 12 worse, median change +0.003 hand lengths; hands within the 0.30 limit 10 -> 12; signs passing 4 -> 4. Better: food 0.25->0.12, energy left 0.32->0.19, make left 0.57->0.46, soil left 0.91->0.78. Worse: computer 0.31->0.46 / 0.34->0.45, oxygen_sign_2 left 0.67->0.87, carbon_dioxide_sign_2 left 0.50->0.61. Not better overall, so it stays off; kept and tested for later work.",
+    "finger_fit": false
+  }
+}

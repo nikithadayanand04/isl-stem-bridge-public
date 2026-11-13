@@ -1,0 +1,58 @@
+{
+  "language": "en",
+  "voice": "Lekha",
+  "voice_gender": "female",
+  "voice_locale": "hi_IN",
+  "sections": {
+    "introduction": {
+      "audio": "introduction.m4a",
+      "lip": "introduction.lip.json",
+      "duration": 6.629
+    },
+    "concept": {
+      "audio": "concept.m4a",
+      "lip": "concept.lip.json",
+      "duration": 8.656
+    },
+    "step_light": {
+      "audio": "step_light.m4a",
+      "lip": "step_light.lip.json",
+      "duration": 4.892
+    },
+    "step_water": {
+      "audio": "step_water.m4a",
+      "lip": "step_water.lip.json",
+      "duration": 5.67
+    },
+    "step_air": {
+      "audio": "step_air.m4a",
+      "lip": "step_air.lip.json",
+      "duration": 4.126
+    },
+    "step_sugar": {
+      "audio": "step_sugar.m4a",
+      "lip": "step_sugar.lip.json",
+      "duration": 8.09
+    },
+    "step_oxygen": {
+      "audio": "step_oxygen.m4a",
+      "lip": "step_oxygen.lip.json",
+      "duration": 5.693
+    },
+    "step_growth": {
+      "audio": "step_growth.m4a",
+      "lip": "step_growth.lip.json",
+      "duration": 7.49
+    },
+    "key_terms": {
+      "audio": "key_terms.m4a",
+      "lip": "key_terms.lip.json",
+      "duration": 6.878
+    },
+    "recap": {
+      "audio": "recap.m4a",
+      "lip": "recap.lip.json",
+      "duration": 21.248
+    }
+  }
+}

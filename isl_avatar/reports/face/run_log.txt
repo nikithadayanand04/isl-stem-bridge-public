@@ -1,0 +1,6 @@
+ARKit shapes present: 52/52
+  problem: Interpreter.eyebrow010 moves 2.96 mm for eyeBlinkLeft while the skin under it moves 7.9 mm
+  problem: Interpreter.eyebrow010 moves 2.96 mm for eyeBlinkRight while the skin under it moves 7.9 mm
+  problem: Interpreter.eyelashes02 moves 1.01 mm for browDownLeft while the skin under it moves 3.2 mm
+  problem: Interpreter.eyelashes02 moves 1.01 mm for browDownRight while the skin under it moves 3.2 mm
+Wrote reports/face/face_report.json
